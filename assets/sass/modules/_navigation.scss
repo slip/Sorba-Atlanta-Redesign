@@ -2,7 +2,7 @@
     $base-font-color: #fff;
     $centered-navigation-padding: 1em;
     $centered-navigation-logo-height: 2em;
-    $centered-navigation-background: $dark-brown;
+    $centered-navigation-background: #fff;
     $centered-navigation-color: transparentize($base-font-color, 0.15);
     $centered-navigation-color-hover: $base-font-color;
     $centered-navigation-height: 60px;
@@ -154,7 +154,7 @@
             position: relative;
         }
     }
-    ul.submenu {
+    ul.sub-menu {
         display: none;
         padding-left: 0;
         background-color: $centered-navigation-background;

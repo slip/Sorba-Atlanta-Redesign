@@ -1,5 +1,5 @@
 .hero {
-    @include backImage("../img/headerBg.png");
+    @include backImage("/assets/img/headerBg.png");
     .hero-logo img {
         height: em(300px);
         margin-bottom: 2em;

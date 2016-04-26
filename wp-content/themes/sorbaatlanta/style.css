@@ -246,7 +246,7 @@ select {
 html {
   box-sizing: border-box;
   background-color: white;
-  background: url(../img/bg_topo.svg) no-repeat center center fixed;
+  background: url(/assets/img/bg_topo.svg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -261,6 +261,10 @@ html {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto; }
+  .container::after {
+    clear: both;
+    content: "";
+    display: table; }
   .container::after {
     clear: both;
     content: "";
@@ -380,37 +384,6 @@ h5 {
 h6 {
   font-size: 1em;
   margin: 1em 0 0.5em; }
-
-.footer {
-  background: #2e2e2e;
-  padding: 3em 20px;
-  margin-top: 3em;
-  width: 100%; }
-  .footer .footer-links {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-bottom: 1.5em; }
-  .footer ul {
-    flex-basis: 20em;
-    flex-shrink: 0;
-    margin-bottom: 3em;
-    padding: 0; }
-  .footer li {
-    color: #fff;
-    line-height: 1.2em;
-    list-style: none;
-    text-align: left; }
-  .footer li a {
-    color: rgba(255, 255, 255, 0.6);
-    text-decoration: none;
-    font-size: .8em; }
-    .footer li a:focus, .footer li a:hover {
-      color: white; }
-  .footer li h6 {
-    color: #fff;
-    font-size: 1em;
-    margin-bottom: 0.4em; }
 
 .centered-navigation {
   background-color: #555;
@@ -535,52 +508,52 @@ h6 {
       .centered-navigation li.more {
         padding-right: 1em;
         position: relative; } }
-  .centered-navigation ul.submenu {
+  .centered-navigation ul.sub-menu {
     display: none;
     padding-left: 0;
-    background-color: #2d2017;
+    background-color: #fff;
     background-color: #555;
     background-image: -webkit-linear-gradient(#555, #2d2017);
     background-image: linear-gradient(#555, #2d2017); }
     @media screen and (min-width: 900px) {
-      .centered-navigation ul.submenu {
+      .centered-navigation ul.sub-menu {
         left: -3em;
         position: absolute;
         top: 1.75em; } }
     @media screen and (min-width: 900px) {
-      .centered-navigation ul.submenu .submenu.fly-out-right {
+      .centered-navigation ul.sub-menu .submenu.fly-out-right {
         left: 11.8em;
         top: 0; } }
     @media screen and (min-width: 900px) {
-      .centered-navigation ul.submenu .submenu.fly-out-left {
+      .centered-navigation ul.sub-menu .submenu.fly-out-left {
         left: -11.8em;
         top: 0; } }
-    .centered-navigation ul.submenu li {
+    .centered-navigation ul.sub-menu li {
       display: block;
       padding-right: 0; }
       @media screen and (min-width: 900px) {
-        .centered-navigation ul.submenu li {
+        .centered-navigation ul.sub-menu li {
           line-height: 46.1538461538px; }
-          .centered-navigation ul.submenu li:first-child > a {
+          .centered-navigation ul.sub-menu li:first-child > a {
             border-top-left-radius: 3px;
             border-top-right-radius: 3px; }
-          .centered-navigation ul.submenu li:last-child > a {
+          .centered-navigation ul.sub-menu li:last-child > a {
             border-bottom-left-radius: 3px;
             border-bottom-right-radius: 3px;
             padding-bottom: 0.7em; } }
-      .centered-navigation ul.submenu li a {
+      .centered-navigation ul.sub-menu li a {
         display: inline-block;
         text-align: right;
         text-decoration: none;
         width: 100%; }
         @media screen and (min-width: 900px) {
-          .centered-navigation ul.submenu li a {
+          .centered-navigation ul.sub-menu li a {
             padding-left: 1em;
             text-align: left;
             width: 12em; } }
 
 .hero {
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.6)), url("../img/headerBg.png");
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.6)), url("/assets/img/headerBg.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -756,3 +729,38 @@ h6 {
   @media (min-width: 900px) {
     .socials {
       display: inline-block; } }
+
+.footer {
+  background: #2e2e2e;
+  padding: 3em 20px;
+  margin-top: 3em;
+  width: 100%; }
+  .footer::after {
+    clear: both;
+    content: "";
+    display: table; }
+  .footer .footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 1.5em; }
+  .footer ul {
+    flex-basis: 20em;
+    flex-shrink: 0;
+    margin-bottom: 3em;
+    padding: 0; }
+  .footer li {
+    color: #fff;
+    line-height: 1.2em;
+    list-style: none;
+    text-align: left; }
+  .footer li a {
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    font-size: .8em; }
+    .footer li a:focus, .footer li a:hover {
+      color: white; }
+  .footer li h6 {
+    color: #fff;
+    font-size: 1em;
+    margin-bottom: 0.4em; }
