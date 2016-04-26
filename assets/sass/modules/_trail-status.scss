@@ -1,0 +1,15 @@
+.trail-status {
+  @include span-columns(4);
+  @include shift(4);
+  @include padding(null null 1.1em null);
+  @include box-shadow();
+  border-radius: 5px;
+  background-color: rgba(225,136,57, .9);
+  color: white;
+  border: 1px solid white;
+  img {
+    position: relative;
+    top: em(3px);
+    left: em(5px);
+  }
+}

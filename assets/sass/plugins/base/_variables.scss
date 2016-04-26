@@ -1,0 +1,73 @@
+// Breakpoints
+$medium-screen: 600px;
+$large-screen: 900px;
+
+// Typography
+$sans-serif: $helvetica;
+$serif: $georgia;
+$base-font-family: 'Roboto Condensed', sans-serif;
+$heading-font-family: 'Raleway', $base-font-family;
+$base-font-weight: 400;
+$heading-font-weight: 500;
+
+// Font Sizes
+$base-font-size: 1em;
+$h1-font-size-large: $base-font-size * 3;
+$h1-font-size: $base-font-size * 2.5;
+$h2-font-size: $base-font-size * 2;
+$h3-font-size: $base-font-size * 1.75;
+$h4-font-size: $base-font-size * 1.5;
+$h5-font-size: $base-font-size * 1.25;
+$h6-font-size: $base-font-size;
+
+// Line height
+$base-line-height: 1.5;
+$heading-line-height: 1.2;
+
+// Lists
+$listMargin: 0px 0px 0px 30px;
+
+
+// Other Sizes
+$base-border-radius: 3px;
+$base-spacing: $base-line-height * 1em;
+$small-spacing: $base-spacing / 2;
+$base-z-index: 0;
+$section-margin-top: 3em;
+
+// Colors
+$blue: #1565c0;
+$dark-gray: #555;
+$medium-gray: #999;
+$light-gray: #ddd;
+$red: #c03d12;
+$dark-brown: #2d2017;
+$dark-green: #1a3328;
+$orange: #e18839;
+$grayish-brown: #4a4a4a;
+$row-background: $light-gray;
+
+// Trail status colors
+$open-color: $dark-green;
+$closed-color: $red;
+
+// Font Colors
+$base-font-color: $dark-gray;
+$action-color: $blue;
+
+// Border
+$base-border-color: $light-gray;
+$base-border: 1px solid $base-border-color;
+
+// Background Colors
+$base-background-color: #fff;
+$secondary-background-color: tint($base-border-color, 75%);
+
+// Forms
+$form-box-shadow: inset 0 1px 3px rgba(#000, 0.06);
+$form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
+
+// Animations
+$base-duration: 250ms;
+$base-timing: ease-in-out;
+

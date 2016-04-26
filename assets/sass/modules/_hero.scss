@@ -1,0 +1,12 @@
+.hero {
+    @include backImage("../img/headerBg.png");
+    .hero-logo img {
+        height: em(300px);
+        margin-bottom: 2em;
+    }
+    .hero-inner {
+        @include clearfix;
+        padding: 2em;
+        text-align: center;
+    }
+}

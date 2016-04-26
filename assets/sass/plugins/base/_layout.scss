@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+    background-color: white;
+    background: url(../img/bg_topo.svg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+.container {
+    @include outer-container;
+}

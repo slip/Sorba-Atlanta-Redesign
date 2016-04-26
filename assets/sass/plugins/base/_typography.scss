@@ -1,0 +1,81 @@
+body {
+  color: $base-font-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  font-weight: $base-font-weight;
+}
+
+p {
+  margin: 0 0 $small-spacing;
+  line-height: 1.75em;
+}
+
+a {
+  color: $action-color;
+  text-decoration: none;
+  transition: color $base-duration $base-timing;
+  &:active,
+  &:focus,
+  &:hover {
+    color: tint($action-color, 25%);
+    text-decoration: underline;
+  }
+}
+
+hr {
+  border-bottom: $base-border;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  margin: $base-spacing 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $heading-font-family;
+  font-weight: $heading-font-weight;
+}
+
+h1 {
+  font-size: $h1-font-size;
+  margin: 1em 0 0.5em;
+  line-height: 1.1;
+  color: $red;
+}
+
+h2 {
+  font-size: $h2-font-size;
+  margin: 1em 0 0.5em;
+  font-size: $h2-font-size;
+  line-height: 1.1;
+  color: $orange;
+}
+
+h3 {
+  font-size: $h3-font-size;
+  margin: 1em 0 0.5em;
+  color: $medium-gray;
+}
+
+h4 {
+  font-size: $h4-font-size;
+  margin: 1em 0 0.5em;
+  color: $medium-gray;
+}
+
+h5 {
+  //    font-family: RobotoCondensed-Bold;
+  font-size: $h5-font-size;
+  margin: 1em 0 0.5em;
+}
+
+h6 {
+  //    font-family: RobotoCondensed-Bold;
+  font-size: $h6-font-size;
+  margin: 1em 0 0.5em;
+}
