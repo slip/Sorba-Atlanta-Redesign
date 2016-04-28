@@ -121,7 +121,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_bullets.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -137,7 +137,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_cards.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -153,7 +153,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_footer.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -169,7 +169,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_hero.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -185,7 +185,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_mixins.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -201,7 +201,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_navigation.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -217,7 +217,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_socials.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -233,7 +233,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_tables.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -249,7 +249,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_trail-status.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -259,13 +259,13 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/assets\/sass\/modules\/modules-dir.scss",
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/modules-dir.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -281,7 +281,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_grid-settings.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -297,7 +297,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_base.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -313,7 +313,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_buttons.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -329,7 +329,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_forms.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -345,7 +345,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_layout.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -361,7 +361,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_lists.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -377,7 +377,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_media.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -393,7 +393,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_tables.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -409,7 +409,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_typography.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -425,7 +425,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_variables.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -441,7 +441,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_bourbon-deprecated-upcoming.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -457,7 +457,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_bourbon.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -473,7 +473,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_border-color.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -489,7 +489,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_border-radius.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -505,7 +505,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_border-style.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -521,7 +521,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_border-width.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -537,7 +537,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_buttons.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -553,7 +553,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_clearfix.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -569,7 +569,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_ellipsis.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -585,7 +585,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_font-stacks.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -601,7 +601,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_hide-text.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -617,7 +617,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_margin.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -633,7 +633,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_padding.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -649,7 +649,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_position.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -665,7 +665,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_prefixer.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -681,7 +681,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_retina-image.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -697,7 +697,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_size.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -713,7 +713,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_text-inputs.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -729,7 +729,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_timing-functions.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -745,7 +745,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_triangle.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -761,7 +761,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_word-wrap.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -777,7 +777,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_animation.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -793,7 +793,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_appearance.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -809,7 +809,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_backface-visibility.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -825,7 +825,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_background-image.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -841,7 +841,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_background.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -857,7 +857,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_border-image.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -873,7 +873,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_calc.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -889,7 +889,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_columns.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -905,7 +905,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_filter.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -921,7 +921,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_flex-box.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -937,7 +937,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_font-face.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -953,7 +953,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_font-feature-settings.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -969,7 +969,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_hidpi-media-query.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -985,7 +985,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_hyphens.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1001,7 +1001,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_image-rendering.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1017,7 +1017,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_keyframes.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1033,7 +1033,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_linear-gradient.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1049,7 +1049,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_perspective.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1065,7 +1065,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_placeholder.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1081,7 +1081,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_radial-gradient.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1097,7 +1097,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_selection.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1113,7 +1113,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_text-decoration.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1129,7 +1129,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_transform.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1145,7 +1145,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_transition.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1161,7 +1161,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_user-select.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1177,7 +1177,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_assign-inputs.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1193,7 +1193,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_contains-falsy.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1209,7 +1209,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_contains.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1225,7 +1225,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_is-length.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1241,7 +1241,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_is-light.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1257,7 +1257,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_is-number.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1273,7 +1273,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_is-size.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1289,7 +1289,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_modular-scale.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1305,7 +1305,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_px-to-em.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1321,7 +1321,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_px-to-rem.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1337,7 +1337,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_shade.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1353,7 +1353,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_strip-units.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1369,7 +1369,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_tint.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1385,7 +1385,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_transition-property-name.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1401,7 +1401,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_unpack.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1417,7 +1417,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_convert-units.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1433,7 +1433,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_directional-values.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1449,7 +1449,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_font-source-declaration.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1465,7 +1465,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_gradient-positions-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1481,7 +1481,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_linear-angle-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1497,7 +1497,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_linear-gradient-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1513,7 +1513,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_linear-positions-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1529,7 +1529,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_linear-side-corner-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1545,7 +1545,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_radial-arg-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1561,7 +1561,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_radial-gradient-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1577,7 +1577,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_radial-positions-parser.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1593,7 +1593,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_render-gradients.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1609,7 +1609,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_shape-size-stripper.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1625,7 +1625,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_str-to-num.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1641,7 +1641,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_asset-pipeline.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1657,7 +1657,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_prefixer.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1673,7 +1673,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_px-to-em.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1689,7 +1689,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_neat-helpers.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1705,7 +1705,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_neat.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1721,7 +1721,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_new-breakpoint.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1737,7 +1737,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_private.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1753,7 +1753,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_box-sizing.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1769,7 +1769,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_direction-context.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1785,7 +1785,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_display-context.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1801,7 +1801,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_fill-parent.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1817,7 +1817,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_media.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1833,7 +1833,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_omega.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1849,7 +1849,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_outer-container.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1865,7 +1865,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_pad.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1881,7 +1881,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_private.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1897,7 +1897,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_row.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1913,7 +1913,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_shift.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1929,7 +1929,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_span-columns.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1945,7 +1945,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_to-deprecate.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1961,7 +1961,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_visual-grid.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1977,7 +1977,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_disable-warnings.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -1993,7 +1993,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_grid.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -2009,7 +2009,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_visual-grid.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -2025,7 +2025,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/plugins-dir.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -2041,7 +2041,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/reset.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -2057,7 +2057,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/style.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -3644,7 +3644,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_admin.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -3660,7 +3660,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_mixins.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -3676,7 +3676,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_variables.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -3728,7 +3728,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/colors.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -3780,7 +3780,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/colors.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -3832,7 +3832,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/colors.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -3884,7 +3884,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/colors.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -3936,7 +3936,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/colors.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -3988,7 +3988,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/colors.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -4040,7 +4040,7 @@
 		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/colors.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"useLibsass": 0
@@ -8076,6 +8076,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/wp-content\/themes\/sorbaatlanta\/page-posts.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/page-posts.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/wp-content\/themes\/sorbaatlanta\/page.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -8481,6 +8490,127 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/uploads\/2016\/04\/freeze_thaw_closure-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60939,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/freeze_thaw_closure-150x150.png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/freeze_thaw_closure-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2016\/04\/freeze_thaw_closure-300x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124047,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/freeze_thaw_closure-300x150.png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/freeze_thaw_closure-300x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2016\/04\/freeze_thaw_closure.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 467747,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/freeze_thaw_closure.png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/freeze_thaw_closure.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2016\/04\/sope_creek_workday (1).png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 539171,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/sope_creek_workday (1).png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/sope_creek_workday (1).png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2016\/04\/sope_creek_workday-150x150 (1).png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67306,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/sope_creek_workday-150x150 (1).png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/sope_creek_workday-150x150 (1).png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2016\/04\/sope_creek_workday-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 67306,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/sope_creek_workday-150x150.png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/sope_creek_workday-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2016\/04\/sope_creek_workday-300x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135070,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/sope_creek_workday-300x150.png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/sope_creek_workday-300x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2016\/04\/sope_creek_workday.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 539171,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/sope_creek_workday.png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/sope_creek_workday.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2016\/04\/spring_membership_drive-150x150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51701,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/spring_membership_drive-150x150.png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/spring_membership_drive-150x150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2016\/04\/spring_membership_drive-300x300.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 194882,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/spring_membership_drive-300x300.png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/spring_membership_drive-300x300.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/wp-content\/uploads\/2016\/04\/spring_membership_drive.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 717300,
+		"inputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/spring_membership_drive.png",
+		"outputAbbreviatedPath": "\/wp-content\/uploads\/2016\/04\/spring_membership_drive.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/wp-cron.php": {
 		"fileType": 8192,
@@ -15130,7 +15260,7 @@
 	"sassCreateSourceMap": 0,
 	"sassDebugStyle": 0,
 	"sassDecimalPrecision": 10,
-	"sassOutputStyle": 0,
+	"sassOutputStyle": 2,
 	"sassUseLibsass": 0,
 	"shouldRunAutoprefixer": 0,
 	"shouldRunBless": 0,

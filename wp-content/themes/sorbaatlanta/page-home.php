@@ -19,52 +19,25 @@ Template Name: Home Page Template
   </div><!--end hero-->
   
 
-<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
-    <div class="container">
-     <div class="cards">
-      <div class="card">
-        <div class="card-image">
-          <img src="http://1.bp.blogspot.com/-HcQcN17dp8g/VorjIN536nI/AAAAAAAAAc8/MxKBa-K2xFc/s1600/10959818_10153123225015879_2312531987606728620_n.jpg" alt="">
-        </div>
-        <div class="card-header">
-          <h6><?php the_title(); ?></h6>
-        </div>
-        <div class="card-copy">
-          <p><?php the_content() ?></p>
-        </div>
-      </div>
-      
-      <div class="card">
-        <div class="card-image">
-          <img src="http://1.bp.blogspot.com/-HcQcN17dp8g/VorjIN536nI/AAAAAAAAAc8/MxKBa-K2xFc/s1600/10959818_10153123225015879_2312531987606728620_n.jpg" alt="">
-        </div>
-        <div class="card-header">
-          <h6><?php the_title(); ?></h6>
-        </div>
-        <div class="card-copy">
-          <p><?php the_content() ?></p>
-        </div>
-      </div>
-      
-      <div class="card">
-        <div class="card-image">
-          <img src="http://1.bp.blogspot.com/-HcQcN17dp8g/VorjIN536nI/AAAAAAAAAc8/MxKBa-K2xFc/s1600/10959818_10153123225015879_2312531987606728620_n.jpg" alt="">
-        </div>
-        <div class="card-header">
-          <h6><?php the_title(); ?></h6>
-        </div>
-        <div class="card-copy">
-          <p><?php the_content() ?></p>
-        </div>
-      </div>
-      </div> <!-- end cards -->
-    </div> <!-- end container -->
-    
-    
-<?php endwhile; else : ?>
-  <p>
-    <?php _e( 'Sorry, no pages found.' ); ?>
-  </p>
-<?php endif; ?>
+<div class="container">
+  <div class="cards">
+    <?php
+$args = array( 'posts_per_page' => 3, 'order'=> 'DSC', 'orderby' => 'date' );
+$postslist = get_posts( $args );
+foreach ( $postslist as $post ) :
+  setup_postdata( $post ); ?> 
+  <div class="card">
+    <div class="card-image"><img src="<?php if (has_post_thumbnail()) {the_post_thumbnail_url();} ?>" alt=""></div>
+    <div class="card-header"><h6><?php the_title(); ?></h6></div>
+    <div class="card-copy"><?php the_excerpt(); ?></div>
+  </div>
+<?php
+endforeach; 
+wp_reset_postdata();
+?>
+  </div>
+</div>
+
+
 
 <?php get_footer(); ?>

@@ -15,45 +15,13 @@
   <meta name="keywords" content="keywords,here">
   <?php wp_head(); ?>
   <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
-<!--  <script src="bower_components/jquery/dist/jquery.min.js"></script>-->
-  <script>
-    $(window).on("load resize", function (e) {
-
-      var more = document.getElementById("js-centered-more");
-      var windowWidth = $(window).width();
-      var moreLeftSideToPageLeftSide = $(more).offset().left;
-      var moreLeftSideToPageRightSide = windowWidth - moreLeftSideToPageLeftSide;
-
-      if (moreLeftSideToPageRightSide < 330) {
-        $("#js-centered-more .submenu .submenu").removeClass("fly-out-right");
-        $("#js-centered-more .submenu .submenu").addClass("fly-out-left");
-      }
-
-      if (moreLeftSideToPageRightSide > 330) {
-        $("#js-centered-more .submenu .submenu").removeClass("fly-out-left");
-        $("#js-centered-more .submenu .submenu").addClass("fly-out-right");
-      }
-
-      var menuToggle = $("#js-centered-navigation-mobile-menu").unbind();
-      $("#js-centered-navigation-menu").removeClass("show");
-
-      menuToggle.on("click", function (e) {
-        e.preventDefault();
-        $("#js-centered-navigation-menu").slideToggle(function () {
-          if ($("#js-centered-navigation-menu").is(":hidden")) {
-            $("#js-centered-navigation-menu").removeAttr("style");
-          }
-        });
-      });
-    });
-  </script>
 </head>
 
 <div class="centered-navigation">
   <div class="centered-navigation-wrapper">
     <nav role="navigation">
        <?php
-      $menu_args = array('container' => 'ul', 'menu_id' => 'js-centered-navigation-menu', 'menu_class' => 'centered-navigation-menu show', 'items_wrap' => '<ul id="js-centered-navigation-menu" class="centered-navigation-menu show">%3$s</ul>');
+          $menu_args = array('container' => 'ul', 'menu_id' => 'js-centered-navigation-menu', 'menu_class' => 'centered-navigation-menu show', 'items_wrap' => '<ul id="js-centered-navigation-menu" class="centered-navigation-menu show">%3$s</ul>');
       
           wp_nav_menu($menu_args);
         ?>
