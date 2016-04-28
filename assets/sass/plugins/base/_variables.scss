@@ -2,11 +2,14 @@
 $medium-screen: 600px;
 $large-screen: 900px;
 
-// Typography
+//-- typo:start --//
 $sans-serif: $helvetica;
 $serif: $georgia;
 $base-font-family: 'Roboto Condensed', sans-serif;
 $heading-font-family: 'Raleway', $base-font-family;
+//-- typo:end --//
+
+// Typography
 $base-font-weight: 400;
 $heading-font-weight: 500;
 
