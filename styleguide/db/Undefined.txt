@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Three Column",
+    "code": "<div class=\"clearfix\">\n    <div class=\"approach-column\">\n        <h3>Workflow automation</h3>\n\t\t<p>We integrate out product teams with your business stakeholders to effectivelly capture lean requirements around business processes. Collectivelly we build innovative products that help banks, asset management companies, and trading firms automate workflow, save costs, and make more profit.</p>\n    </div>\n    \n    <div class=\"approach-column\">\n\t\t<h3>Lending automation</h3>\n\t\t<p>Digital solutions for lending automation - fully functioning financial services software that is fast, and improves customer service. Lending automation removes paper from the process, reduces the cost of loan processing, reduces processing time, improves accuracy by eliminating human error, and improves management visibility.</p>\n    </div>\n    \n    <div class=\"approach-column\">\n\t\t<h3>Education and learning</h3>\n\t\t<p>Introduction of agile in the enterprise is a challenging process that is often met with resistance. We offer our help in providing training content, workshops, and executive education to facilitate process change. Our objective - ship better products that customers love, faster.</p>\n    </div>\n</div>",
+    "description": "",
+    "inlineCss": "#snippet { \n  \n}",
+    "includeJs": "false",
+    "isEdited": false,
+    "isDeleted": false
+  },
+  {
+    "id": 2,
+    "name": "Three Column",
+    "code": "",
+    "description": "",
+    "inlineCss": "#snippet { \n  \n}",
+    "includeJs": "false",
+    "isEdited": false,
+    "isDeleted": false
+  }
+]
