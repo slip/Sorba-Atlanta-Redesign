@@ -6,43 +6,43 @@
 }
 
 .card {
+  $card-transition-time: all .5s ease-in-out;
   $card-border-color: $base-border-color;
   $card-border: 1px solid $card-border-color;
-  $card-background: lighten($card-border-color, 10%);
+  $card-background: lighten($card-border-color, 35%);
   $card-header-background: $SorbaDarkBrown;
   $card-margin: .5em;
-  $card-image-hover-opacity: 0.7;
+  $card-image-hover-opacity: 0.5;
   $card-image-hover-color: #FFF;
   background-color: $card-background;
   border: $card-border;
   border-radius: $base-border-radius;
-  box-shadow: 0 2px 4px darken($base-background-color, 10%);
+  box-shadow: 0 2px 4px darken($base-background-color, 15%);
   cursor: pointer;
   flex-basis: 15em;
   flex-grow: 1;
   margin: 0 $card-margin $base-spacing $card-margin;
   position: relative;
-  transition: all 0.2s ease-in-out;
   .card-image {
     background-color: $card-image-hover-color;
     height: em(190px);
     max-height: em(190px);
     overflow: hidden;
     img {
+      transition: $card-transition-time;
       @include border-top-radius($base-border-radius);
       opacity: 1;
-      transition: all 0.2s ease-in-out;
-      width: 100%;
+      @include fill-parent;
     }
   }
   .card-header {
     @include linear-gradient($SorbaDarkGray, $SorbaDarkBrown);
-    color: #fff;
+    color: $SorbaOrange;
     border-bottom: $card-border;
     border-radius: $base-border-radius $base-border-radius 0 0;
     line-height: 1.5em;
     padding: ($base-spacing / 3) ($base-spacing / 2);
-    transition: all 0.2s ease-in-out;
+    transition: $card-transition-time;
     h6 {
       margin: .25em;
     }
@@ -61,11 +61,8 @@
     img {
       opacity: $card-image-hover-opacity;
     }
-  }
-  &:active {
-    background-color: $card-background;
     .card-header {
-      background-color: $card-background;
+      color: white;
     }
   }
 }

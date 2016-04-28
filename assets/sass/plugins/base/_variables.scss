@@ -1,19 +1,39 @@
 // Breakpoints
+$large-screen: 1200px;
+$medium-screen: 1000px;
+$tablet-screen: 768px;
+$mobile-screen: 480px;
+
 $medium-screen: 600px;
 $large-screen: 900px;
 
+//-- colors:start --//
+$SorbaDarkGray: #47474b;
+$SorbaGray: #9b9b9b;
+$SorbaLightGray: #f6f6f6;
+$SorbaGray80: rgba(155, 155, 155, 0.8);
+$SorbaGray40: rgba(155, 155, 155, 0.4);
+$SorbaDarkGreen: #1a3328;
+$SorbaDarkBrown: #4c413a;
+$SorbaRed: #c03d12;
+$SorbaOrange: #e18839;
+$SorbaSage: #c7d4ce;
+$SorbaBlue: #2866fa;
+//-- colors:end --//
+
+$sans-serif: $helvetica; //400
+$serif: $georgia; //400
+
 //-- typo:start --//
-$sans-serif: $helvetica;
-$serif: $georgia;
-$base-font-family: 'Roboto Condensed', sans-serif;
-$heading-font-family: 'Raleway', $base-font-family;
+$base-font-family: "Roboto Condensed", sans-serif; //400
+$heading-font-family: "Raleway", $base-font-family; //500
 //-- typo:end --//
 
-// Typography
+// Weight
 $base-font-weight: 400;
 $heading-font-weight: 500;
 
-// Font Sizes
+// Size
 $base-font-size: 1em;
 $h1-font-size-large: $base-font-size * 3;
 $h1-font-size: $base-font-size * 2.5;
@@ -38,28 +58,12 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 $section-margin-top: 3em;
 
-//-- colors:start --//
-$SorbaDarkGray: #47474b;
-$SorbaGray: #9b9b9b;
-$SorbaLightGray: #f6f6f6;
-$SorbaGray80: rgba(155, 155, 155, 0.8);
-$SorbaGray40: rgba(155, 155, 155, 0.4);
-$SorbaDarkGreen: #1a3328;
-$SorbaDarkBrown: #4c413a;
-$SorbaRed: #c03d12;
-$SorbaOrange: #e18839;
-$SorbaSage: #c7d4ce;
-$SorbaBlue: #2866fa;
-
-//$grayish-brown: #4a4a4a;
-//-- colors:end --//
-
 $row-background: $SorbaLightGray;
 $open-color: $SorbaDarkGreen;
 $closed-color: $SorbaRed;
 $base-font-color: $SorbaDarkGray;
 $action-color: $SorbaBlue;
-$base-border-color: $SorbaLightGray;
+$base-border-color: $SorbaGray;
 $base-background-color: #fff;
 $secondary-background-color: tint($base-border-color, 75%);
 
@@ -75,4 +79,3 @@ $form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $l
 // Animations
 $base-duration: 250ms;
 $base-timing: ease-in-out;
-

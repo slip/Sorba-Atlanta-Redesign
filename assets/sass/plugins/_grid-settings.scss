@@ -1,16 +1,18 @@
 @import "neat/neat-helpers";
-
 // Change the grid settings
 $column: 60px;
 $gutter: 20px;
-$grid-columns: 12;
-$max-width: 1200px;
+$grid-columns: 14;
+$max-width: 1400px;
 
 // Define your breakpoints
+$large-desktop: new-breakpoint(max-width 1200px 12);
+$medium-desktop: new-breakpoint(max-width 1000px 10);
 $tablet: new-breakpoint(max-width 768px 8);
 $mobile: new-breakpoint(max-width 480px 4);
 
-$visual-grid: false;
+// Grid settings
+$visual-grid: true;
 $visual-grid-color: #eee;
-$visual-grid-index: back;
-$visual-grid-opacity: 0.4;
+$visual-grid-index: front;
+$visual-grid-opacity: 0.25;
