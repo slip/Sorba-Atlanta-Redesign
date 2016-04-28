@@ -35,33 +35,35 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 $section-margin-top: 3em;
 
-// Colors
-$blue: #1565c0;
-$dark-gray: #555;
-$medium-gray: #999;
-$light-gray: #ddd;
-$red: #c03d12;
-$dark-brown: #2d2017;
-$dark-green: #1a3328;
-$orange: #e18839;
-$grayish-brown: #4a4a4a;
-$row-background: $light-gray;
+//-- colors:start --//
+$SorbaDarkGray: #47474b;
+$SorbaGray: #9b9b9b;
+$SorbaLightGray: #f6f6f6;
+$SorbaGray80: rgba(155, 155, 155, 0.8);
+$SorbaGray40: rgba(155, 155, 155, 0.4);
+$SorbaDarkGreen: #1a3328;
+$SorbaDarkBrown: #4c413a;
+$SorbaRed: #c03d12;
+$SorbaOrange: #e18839;
+$SorbaSage: #c7d4ce;
+$SorbaBlue: #2866fa;
 
-// Trail status colors
-$open-color: $dark-green;
-$closed-color: $red;
+//$grayish-brown: #4a4a4a;
+//-- colors:end --//
 
-// Font Colors
-$base-font-color: $dark-gray;
-$action-color: $blue;
+$row-background: $SorbaLightGray;
+$open-color: $SorbaDarkGreen;
+$closed-color: $SorbaRed;
+$base-font-color: $SorbaDarkGray;
+$action-color: $SorbaBlue;
+$base-border-color: $SorbaLightGray;
+$base-background-color: #fff;
+$secondary-background-color: tint($base-border-color, 75%);
 
 // Border
-$base-border-color: $light-gray;
 $base-border: 1px solid $base-border-color;
 
 // Background Colors
-$base-background-color: #fff;
-$secondary-background-color: tint($base-border-color, 75%);
 
 // Forms
 $form-box-shadow: inset 0 1px 3px rgba(#000, 0.06);

@@ -11,7 +11,7 @@
     $centered-navigation-submenu-width: 12em;
     $centered-navigation-item-nudge: 2.2em;
     $horizontal-bar-mode: $large-screen;
-    @include linear-gradient($dark-gray, $dark-brown);
+    @include linear-gradient($SorbaDarkGray, $SorbaDarkBrown);
     min-height: $centered-navigation-height;
     width: 100%;
     z-index: 9999;
@@ -158,7 +158,7 @@
         display: none;
         padding-left: 0;
         background-color: $centered-navigation-background;
-        @include linear-gradient($dark-gray, $dark-brown);
+        @include linear-gradient($SorbaDarkGray, $SorbaDarkBrown);
         @include media($horizontal-bar-mode) {
             left: -3em;
             position: absolute;

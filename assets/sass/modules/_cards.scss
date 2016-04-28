@@ -9,7 +9,7 @@
   $card-border-color: $base-border-color;
   $card-border: 1px solid $card-border-color;
   $card-background: lighten($card-border-color, 10%);
-  $card-header-background: $grayish-brown;
+  $card-header-background: $SorbaDarkBrown;
   $card-margin: .5em;
   $card-image-hover-opacity: 0.7;
   $card-image-hover-color: #FFF;
@@ -36,7 +36,7 @@
     }
   }
   .card-header {
-    @include linear-gradient($dark-gray, $dark-brown);
+    @include linear-gradient($SorbaDarkGray, $SorbaDarkBrown);
     color: #fff;
     border-bottom: $card-border;
     border-radius: $base-border-radius $base-border-radius 0 0;
