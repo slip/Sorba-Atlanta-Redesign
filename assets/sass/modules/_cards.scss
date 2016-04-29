@@ -25,15 +25,15 @@
   position: relative;
   .card-image {
     background-color: $card-image-hover-color;
-    height: em(190px);
-    max-height: em(190px);
+    height: 190px;
+//    max-height: em(190px);
     overflow: hidden;
     img {
       transition: $card-transition-time;
       @include border-top-radius($base-border-radius);
       opacity: 1;
       @include fill-parent;
-      min-width: 390px;
+//      min-width: 390px;
     }
   }
   .card-header {

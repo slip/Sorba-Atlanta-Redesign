@@ -12,7 +12,7 @@ Template Name: Posts Page Template
       <a href="/index.php" class="hero-logo"><img src="/assets/img/sorba_logo.svg" alt="Sorba Logo"></a>
       <div class="container">
         <div class="trail-status">
-          <h5>Trail Status</h5>
+          <h4>Trail Status</h4>
           <p>All trails are open for bikes. Go Ride! <img src="/assets/img/trailOpen.png" alt="Trail Open"></p>
         </div>
       </div>

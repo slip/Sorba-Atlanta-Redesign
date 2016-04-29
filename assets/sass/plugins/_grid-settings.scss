@@ -10,7 +10,7 @@ $medium-desktop: new-breakpoint(max-width 1000px 10);
 $tablet: new-breakpoint(max-width 768px 8);
 $mobile: new-breakpoint(max-width 480px 4);
 // Grid settings
-$visual-grid: true;
+$visual-grid: false;
 $visual-grid-color: #eee;
 $visual-grid-index: front;
 $visual-grid-opacity: 0.25;
