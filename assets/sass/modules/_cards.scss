@@ -33,6 +33,7 @@
       @include border-top-radius($base-border-radius);
       opacity: 1;
       @include fill-parent;
+      min-width: 390px;
     }
   }
   .card-header {
