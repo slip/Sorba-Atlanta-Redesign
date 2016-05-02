@@ -26,14 +26,12 @@
   .card-image {
     background-color: $card-image-hover-color;
     height: 190px;
-//    max-height: em(190px);
     overflow: hidden;
     img {
       transition: $card-transition-time;
       @include border-top-radius($base-border-radius);
       opacity: 1;
       @include fill-parent;
-//      min-width: 390px;
     }
   }
   .card-header {
@@ -46,6 +44,10 @@
     transition: $card-transition-time;
     h6 {
       margin: .25em;
+      
+    }
+    a {
+      color: $SorbaOrange;
     }
   }
   .card-copy {

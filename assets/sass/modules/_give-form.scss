@@ -1,0 +1,8 @@
+.give-form-wrap {
+  @include border-top-radius(5px);
+  @include span-columns(8);
+  @include shift(2);
+  h2 {
+    display: none;
+  }
+}
