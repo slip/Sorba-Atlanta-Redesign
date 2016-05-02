@@ -1,6 +1,6 @@
 .socials {
-  display: none;
-  @include break($large-screen) {
-    display: inline-block;
+  display: inline-block;
+  img {
+    margin-right: 1.5em;
   }
 }

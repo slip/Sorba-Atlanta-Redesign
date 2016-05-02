@@ -1,0 +1,1 @@
+"use strict";var gulp=require("gulp"),styleguide=require("devbridge-styleguide");gulp.task("start-styleguide",function(){styleguide.startServer()}),gulp.task("default",function(){});

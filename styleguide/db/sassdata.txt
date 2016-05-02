@@ -1,0 +1,62 @@
+[
+  {
+    "name": "theme",
+    "colors": {
+      "#47474b": [
+        "$SorbaDarkGray"
+      ],
+      "#f6f6f6": [
+        "$SorbaLightGray"
+      ],
+      "rgba(155, 155, 155, 0.4)": [
+        "$SorbaGray40"
+      ],
+      "#4c413a": [
+        "$SorbaDarkBrown"
+      ],
+      "#e18839": [
+        "$SorbaOrange"
+      ],
+      "#2866fa": [
+        "$SorbaBlue"
+      ],
+      "#9b9b9b": [
+        "$SorbaGray"
+      ],
+      "#1a3328": [
+        "$SorbaDarkGreen"
+      ],
+      "#c7d4ce": [
+        "$SorbaSage"
+      ],
+      "rgba(155, 155, 155, 0.8)": [
+        "$SorbaGray80"
+      ],
+      "#c03d12": [
+        "$SorbaRed"
+      ]
+    },
+    "typography": [
+      {
+        "variable": "$base-font-family",
+        "value": "'Roboto Condensed', sans-serif",
+        "weights": [
+          {
+            "weight": 400,
+            "italic": false
+          }
+        ]
+      },
+      {
+        "variable": "$heading-font-family",
+        "value": "'Raleway', $base-font-family",
+        "weights": [
+          {
+            "weight": 500,
+            "italic": false
+          }
+        ]
+      }
+    ]
+  }
+]

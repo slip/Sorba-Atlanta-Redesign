@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<!--[if lte IE 6]><html class="preIE7 preIE8 preIE9"><![endif]-->
+<!--[if IE 7]><html class="preIE8 preIE9"><![endif]-->
+<!--[if IE 8]><html class="preIE9"><![endif]-->
+<!--[if gte IE 9]><!-->
+<html>
+<!--<![endif]-->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Sorba Atlanta | Work Together Ride Together</title>
+  <meta name="author" content="Resolution Digital Type and Image">
+  <meta name="description" content="description here">
+  <meta name="keywords" content="keywords,here">
+  <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+  <script src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script>
+    $(window).on("load resize", function (e) {
+
+      var more = document.getElementById("js-centered-more");
+      var windowWidth = $(window).width();
+      var moreLeftSideToPageLeftSide = $(more).offset().left;
+      var moreLeftSideToPageRightSide = windowWidth - moreLeftSideToPageLeftSide;
+
+      if (moreLeftSideToPageRightSide < 330) {
+        $("#js-centered-more .submenu .submenu").removeClass("fly-out-right");
+        $("#js-centered-more .submenu .submenu").addClass("fly-out-left");
+      }
+
+      if (moreLeftSideToPageRightSide > 330) {
+        $("#js-centered-more .submenu .submenu").removeClass("fly-out-left");
+        $("#js-centered-more .submenu .submenu").addClass("fly-out-right");
+      }
+
+      var menuToggle = $("#js-centered-navigation-mobile-menu").unbind();
+      $("#js-centered-navigation-menu").removeClass("show");
+
+      menuToggle.on("click", function (e) {
+        e.preventDefault();
+        $("#js-centered-navigation-menu").slideToggle(function () {
+          if ($("#js-centered-navigation-menu").is(":hidden")) {
+            $("#js-centered-navigation-menu").removeAttr("style");
+          }
+        });
+      });
+    });
+  </script>
+</head>
+
+<body>
+  <div class="centered-navigation">
+    <div class="centered-navigation-wrapper">
+      <nav role="navigation">
+        <ul id="js-centered-navigation-menu" class="centered-navigation-menu show">
+          <li class="nav-link"><a href="javascript:void(0)">ABOUT</a></li>
+          <li id="js-centered-more" class="nav-link more"><a href="javascript:void(0)">TRAILS</a>
+            <ul class="submenu">
+              <li><a href="javascript:void(0)">TRAIL STATUS</a></li>
+              <li><a href="javascript:void(0)">COCHRAN MILL</a></li>
+              <li><a href="javascript:void(0)">SOPE CREEK</a></li>
+            </ul>
+          </li>
+          <li class="nav-link"><a href="javascript:void(0)">CALENDAR</a></li>
+          <li class="nav-link"><a href="javascript:void(0)">MEMBERSHIP</a></li>
+          <li class="nav-link"><a href="javascript:void(0)">SHOP</a></li>
+          <li class="nav-link">
+            <input type="button" value="DONATE" class="donate-button">
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+  <!--end nav-->
+
+  <div class="hero">
+    <div class="hero-inner">
+      <a href="" class="hero-logo"><img src="/assets/img/sorba_logo.svg" alt="Sorba Logo"></a>
+      <div class="container">
+        <div class="trail-status">
+          <h5>Trail Status</h5>
+          <p>All trails are open for bikes. Go Ride! <img src="assets/img/trailOpen.png" alt="Trail Open"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--end hero-->
+
+  <div class="container">
+    <div class="cards">
+      <div class="card">
+        <div class="card-image">
+          <img src="http://4.bp.blogspot.com/-edvE47FkVk4/VqWMooPdbSI/AAAAAAAAAeg/GvMKF8TPjaI/s1600/IMG_4410.JPG" alt="">
+        </div>
+        <div class="card-header">
+          <h6>Sope Creek Machine Work</h6>
+        </div>
+        <div class="card-copy">
+          <p>Phase Two of the Sope Creek Machine Maintenance Project begins Monday, January 25th. This project will last for 2 weeks and the work will be concentrated on the Upper Loop (Sope Creek Side) and the bi-directional trail at Fox Creek in the middle of the figure 8 loop. <a href="javascript:void(0)" class="read-more">Read More</a></p>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-image">
+          <img src="http://1.bp.blogspot.com/-C1OljbweGO4/VpUOG5Geb4I/AAAAAAAAAeA/t1pD3B3yvVE/s1600/IMG_1589%2B%25281%2529.jpg" alt="">
+        </div>
+        <div class="card-header">
+          <h6>Freeze-Thaw Closure</h6>
+        </div>
+        <div class="card-copy">
+          <p>It's that time of year again, night time temperatures drop below freezing and afternoon temperatures get warm and melt the frozen trails. This year Freeze Thaw has been amplified by all the precipitation last month. <a href="javascript:void(0)" class="read-more">Read More</a></p>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-image">
+          <img src="http://1.bp.blogspot.com/-HcQcN17dp8g/VorjIN536nI/AAAAAAAAAc8/MxKBa-K2xFc/s1600/10959818_10153123225015879_2312531987606728620_n.jpg" alt="">
+        </div>
+        <div class="card-header">
+          <h6>First Work Party at Cochran Mill</h6>
+        </div>
+        <div class="card-copy">
+          <p>On the heels of entering into a Memorandum of Understanding with the City of Chattahoochee Hills last month, we will be having our first monthly work party at Cochran Mill Park this Saturday, January 9th. This will be a monthly event on the second Saturday of each month from 9 AM -12 PM. <a href="javascript:void(0)" class="read-more">Read More</a></p>
+        </div>
+      </div>
+    </div>
+    <!-- end cards -->
+  </div>
+  <!-- end container -->
+
+
+  <footer class="footer" role="contentinfo">
+    <div class="footer-links">
+      <ul>
+        <li>
+          <h6>&copy; 2016 SorbaAtlanta.org</h6></li>
+        <li>design by <a href="javascript:void(0)">resolutionathens.com</a></li>
+      </ul>
+      <ul>
+        <li>
+          <h6>Articles</h6></li>
+        <li><a href="javascript:void(0)">Understanding with the City of Chattahoochee Hills</a></li>
+        <li><a href="javascript:void(0)">Trail Maintenance at Sope Creek 12.3.2016</a></li>
+        <li><a href="javascript:void(0)">IMBA SORBA Atlanta receives $25,000 Grant from REI</a></li>
+      </ul>
+      <ul>
+        <li>
+          <h6>Sign up for our newsletter</h6></li>
+        <li>
+          <form action="" method="post" id="subForm">
+            <input type="email" name="email" id="email-input" placeholder="example@domain.com">
+            <input type="submit" value="SIGN ME UP!" class="button">
+          </form>
+        </li>
+      </ul>
+
+    </div>
+
+  </footer>
+
+</body>
+
+</html>
