@@ -27,8 +27,8 @@ $postslist = get_posts( $args );
 foreach ( $postslist as $post ) :
   setup_postdata( $post ); ?> 
   <div class="card">
-    <div class="card-image"><img src="<?php if (has_post_thumbnail()) {the_post_thumbnail_url();} ?>" alt=""></div>
-    <div class="card-header"><h6><?php the_title(); ?></h6></div>
+    <div class="card-image"><a href="<?php the_permalink() ?>"><img src="<?php if (has_post_thumbnail()) {the_post_thumbnail_url();} ?>" alt=""></a></div>
+    <div class="card-header"><h6><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h6></div>
     <div class="card-copy"><?php the_excerpt(); ?></div>
   </div>
 <?php
