@@ -14,7 +14,7 @@
   <meta name="description" content="description here">
   <meta name="keywords" content="keywords,here">
   <?php wp_head(); ?>
-  <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
 </head>
 
 <div class="centered-navigation">

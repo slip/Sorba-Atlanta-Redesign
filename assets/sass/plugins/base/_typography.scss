@@ -5,7 +5,7 @@ html {
 body {
   font-family: $base-font-family;
   font-weight: $base-font-weight;
-  line-height: 1.45;
+  line-height: $base-line-height;
   color: $base-font-color;
 }
 
@@ -20,7 +20,7 @@ h4 {
   margin: 1.414em 0 0.5em;
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
-  line-height: 1.2;
+  line-height: $heading-line-height;
 }
 
 h1 {
