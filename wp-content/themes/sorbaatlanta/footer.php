@@ -7,12 +7,13 @@
     </ul>
     <ul>
       <li>
-        <h6>Follow Us</h6></li>
-          <div class="socials">
-              <a href="https://www.facebook.com/SORBA-Atlanta-Southern-Off-Road-Bicycle-Association-355177060787/"><img src="/assets/img/facebook.png"></a>
-              <a href="https://twitter.com/SORBAAtlanta"><img src="/assets/img/twitter.png"></a>
-              <a href="https://www.instagram.com/sorbaatlanta/"><img src="/assets/img/instagram.png"></a>
-            </div>
+        <h6>Follow us</h6></li>
+      <div class="socials">
+        <a href="https://www.facebook.com/SORBA-Atlanta-Southern-Off-Road-Bicycle-Association-355177060787/"><img src="/assets/img/facebook.png"></a>
+        <a href="https://twitter.com/SORBAAtlanta"><img src="/assets/img/twitter.png"></a>
+        <a href="https://www.instagram.com/sorbaatlanta/"><img src="/assets/img/instagram.png"></a>
+      </div>
+      <li><img src="/assets/img/IMBA-SORBA-min.png" alt="IMBA SORBA" style="width:150px;"></li>
     </ul>
     <ul>
       <li>
@@ -24,8 +25,10 @@
         </form>
       </li>
     </ul>
-  </div><!-- end footer links -->
+  </div>
+  <!-- end footer links -->
 </footer>
 <?php wp_footer(); ?>
-</body>
-</html>
+  </body>
+
+  </html>

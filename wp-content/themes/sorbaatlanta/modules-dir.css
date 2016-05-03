@@ -1,14 +1,18 @@
 /*
-Error: Undefined variable: "$large-screen".
-        on line 13 of /Users/slip/Google Drive/_sites/sorba/assets/sass/modules/_navigation.scss
-        from line 2 of /Users/slip/Google Drive/_sites/sorba/assets/sass/modules/modules-dir.scss
+Error: Undefined variable: "$mobile-screen".
+        on line 12 of /Users/slip/Google Drive/_sites/sorba/assets/sass/modules/_navigation.sass
+        from line 2 of /Users/slip/Google Drive/_sites/sorba/assets/sass/modules/modules-dir.sass
 
-8: @import "socials";
-9: @import "footer";
+7: @import trail-status
+8: @import socials
+9: @import footer
+10: @import blog-listing
+11: @import give-form
+12: @import board-members
 
 Backtrace:
-/Users/slip/Google Drive/_sites/sorba/assets/sass/modules/_navigation.scss:13
-/Users/slip/Google Drive/_sites/sorba/assets/sass/modules/modules-dir.scss:2
+/Users/slip/Google Drive/_sites/sorba/assets/sass/modules/_navigation.sass:12
+/Users/slip/Google Drive/_sites/sorba/assets/sass/modules/modules-dir.sass:2
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/tree/variable.rb:49:in `_perform'
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/script/tree/node.rb:50:in `perform'
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/tree/visitors/perform.rb:469:in `visit_variable'
@@ -60,9 +64,9 @@ Backtrace:
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/sass_scss.rb:63:in `process_result'
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:52:in `parse'
 /Applications/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:19:in `parse!'
-/Applications/CodeKit.app/Contents/Resources/engines/scss/bin/scss:13:in `<main>'
+/Applications/CodeKit.app/Contents/Resources/engines/scss/bin/sass:13:in `<main>'
 */
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$large-screen\".\A         on line 13 of /Users/slip/Google Drive/_sites/sorba/assets/sass/modules/_navigation.scss\A         from line 2 of /Users/slip/Google Drive/_sites/sorba/assets/sass/modules/modules-dir.scss\A \A 8: @import \"socials\";\A 9: @import \"footer\";"; }
+  content: "Error: Undefined variable: \"$mobile-screen\".\A         on line 12 of /Users/slip/Google Drive/_sites/sorba/assets/sass/modules/_navigation.sass\A         from line 2 of /Users/slip/Google Drive/_sites/sorba/assets/sass/modules/modules-dir.sass\A \A 7: @import trail-status\A 8: @import socials\A 9: @import footer\A 10: @import blog-listing\A 11: @import give-form\A 12: @import board-members"; }
