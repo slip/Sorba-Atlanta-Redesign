@@ -2,7 +2,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin-top: $section-margin-top;
 }
 
 .card {
@@ -39,23 +38,19 @@
     color: $SorbaOrange;
     border-bottom: $card-border;
     border-radius: $base-border-radius $base-border-radius 0 0;
-    line-height: 1.5em;
     padding: ($base-spacing / 3) ($base-spacing / 2);
     transition: $card-transition-time;
-    h6 {
-      margin: .25em;
-      
-    }
     a {
       color: $SorbaOrange;
     }
+    h4 {
+      margin: 0;
+    }
   }
   .card-copy {
-    font-size: 0.9em;
-    line-height: 1.5em;
-    padding: ($base-spacing / 2) ($base-spacing / 2);
+    padding: ($base-spacing / 2);
     p {
-      margin: .25em;
+      margin: 0;
     }
   }
   &:focus,
@@ -63,9 +58,6 @@
     cursor: pointer;
     img {
       opacity: $card-image-hover-opacity;
-    }
-    .card-header {
-      color: white;
     }
   }
 }

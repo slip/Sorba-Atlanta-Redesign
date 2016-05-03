@@ -1,17 +1,18 @@
 .trail-status {
   @include span-columns(6);
   @include shift(3);
-  @include padding(null null 1.1em null);
   @include box-shadow();
-  margin-top: 1em;
   border-radius: 5px;
-  background-color: rgba(225, 136, 57, .9);
+  background-color: $SorbaOrange;
   color: white;
   border: 1px solid white;
+  padding: 1em 0 0;
   h4 {
     color: white;
+    margin: 0;
   }
   img {
+    display: inline-block;
     position: relative;
     top: em(3px);
     left: em(5px);

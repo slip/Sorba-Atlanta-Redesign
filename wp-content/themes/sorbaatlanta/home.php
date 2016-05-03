@@ -8,32 +8,30 @@
   <!--end hero-->
 
   <div class="container">
-    <div class="post-listing">
-      <h1>Articles</h1>
-
+    <div class="blog-listing">
       <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
         <article>
-          <a href="<?php the_permalink(); ?>"><h2><?php the_title(); ?></h2></a>
-          <ul class="post-meta">
-            <li class="author">by
-              <?php the_author_posts_link() ?>
-            </li>
-            <li class="cat">in
-              <?php the_category(','); ?>
-            </li>
-            <li class="date">on
-              <?php the_time('F j, Y'); ?>
-            </li>
-          </ul>
-          <p>
-            <?php if( get_the_post_thumbnail() ) : ?>
-              <div class="thumbnail-container">
-                <?php the_post_thumbnail('medium'); ?>
-              </div>
-
+          <?php if( get_the_post_thumbnail() ) : ?>
+            <div class="thumbnail-container">
+              <?php the_post_thumbnail('medium'); ?>
+            </div>
+            <div class="excerpt-container">
+              <a href="<?php the_permalink(); ?>"><h2><?php the_title(); ?></h2></a>
+              <ul class="post-meta">
+                <li class="author">by
+                  <?php the_author_posts_link() ?>
+                </li>
+                <li class="cat">in
+                  <?php the_category(','); ?>
+                </li>
+                <li class="date">on
+                  <?php the_time('F j, Y'); ?>
+                </li>
+              </ul>
               <?php echo strip_tags(get_the_excerpt()); ?>
-          </p>
+            </div>
         </article>
+        <hr>
         <?php endif; ?>
           <?php endwhile; else : ?>
             <p>
