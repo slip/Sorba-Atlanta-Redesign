@@ -1,7 +1,9 @@
 .hero {
   @include backImage("/assets/img/headerBg.png");
+  margin-bottom: 2em;
   .hero-logo img {
     height: em(300px);
+    margin-bottom: 1em;
   }
   .hero-inner {
     @include clearfix;
@@ -13,4 +15,7 @@
 .hero-trails {
   @extend .hero;
   @include backImage("/assets/img/trail_header_image.png");
+  .hero-logo img {
+    margin: 0;
+  }
 }

@@ -18,3 +18,8 @@ html {
   @include outer-container;
   @include clearfix;
 }
+
+.inner-container {
+  @include span-columns(8);
+  @include shift(2);
+}

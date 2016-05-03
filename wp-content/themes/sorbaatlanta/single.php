@@ -8,13 +8,13 @@
   <!--end hero-->
 
   <div class="container">
-    <div class="post-listing">
+    <div class="blog-listing">
       <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
         <article>
           <h1><?php the_title(); ?><img src="/assets/img/share.png" alt="Share"></h1>
           <ul class="post-meta">
             <li class="author">by
-              <?php the_author_posts_link() ?>
+              <?php the_author_posts_link(); ?>
             </li>
             <li class="cat">in
               <?php the_category(','); ?>

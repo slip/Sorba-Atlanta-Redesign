@@ -7,47 +7,54 @@ body {
   font-weight: $base-font-weight;
   line-height: $base-line-height;
   color: $base-font-color;
-}
-
-p {
-  margin-bottom: 1.3em;
+  margin: 0;
+  padding: 0;
 }
 
 h1,
 h2,
 h3,
 h4 {
-  margin: 1.414em 0 0.5em;
+  margin: 0;
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
-  line-height: $heading-line-height;
 }
 
 h1 {
-  margin-top: .707em;
-  font-size: 3.998em;
   color: $SorbaRed;
+  margin: 0;
+  font-size: 1.5em;
+  line-height: 1em;
+  margin-bottom: 1em;
+}
+
+h1.the-title {
+  font-size: 2.25em;
   text-align: center;
 }
 
 h2 {
-  font-size: 2.827em;
   color: $SorbaOrange;
+  margin: 0;
+  font-size: 1.375em;
+  line-height: 1.09em;
+  margin-bottom: 1.09em;
 }
 
 h3 {
-  font-size: 1.999em;
   color: $SorbaGray;
+  margin: 0;
+  font-size: 1.25em;
+  line-height: 1.2em;
+  margin-bottom: 1.2em;
 }
 
 h4 {
-  font-size: 1.414em;
   color: $SorbaGray;
-}
-
-small,
-.font_small {
-  font-size: 0.707em;
+  margin: 0;
+  font-size: 1.125em;
+  line-height: 1.33em;
+  margin-bottom: 1.33em;
 }
 
 a {
@@ -68,4 +75,29 @@ hr {
   border-right: 0;
   border-top: 0;
   margin: $base-spacing 0;
+}
+
+p,
+ul,
+blockquote,
+pre,
+td,
+th,
+label {
+  margin: 0;
+  font-size: 1em;
+  line-height: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+p.small {
+  margin: 0;
+  font-size: 0.875em;
+  line-height: 1.71em;
+  margin-bottom: 1.71em;
+}
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 1.5em;
 }
