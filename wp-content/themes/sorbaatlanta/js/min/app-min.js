@@ -1,1 +1,1 @@
-$(document).ready(function(){console.log("ready!")});
+jQuery(document).ready(function(){console.log("ready!");var e=new Slideout({panel:document.getElementById("panel"),menu:document.getElementById("menu"),padding:256,tolerance:70})});

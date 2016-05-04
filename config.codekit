@@ -304,6 +304,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
+	"\/assets\/sass\/modules\/_slideout-menu.sass": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/modules\/_slideout-menu.sass",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_slideout-menu.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
 	"\/assets\/sass\/modules\/_socials.sass": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
