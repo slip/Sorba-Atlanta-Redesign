@@ -27,5 +27,6 @@ add_action('wp_enqueue_scripts', 'wps_theme_styles');
 function wps_theme_js()
 {
   wp_enqueue_script('main_js', get_template_directory_uri() . '/js/app.js', array('jquery'), '', false);
+  wp_enqueue_script('slideout', 'https://cdnjs.cloudflare.com/ajax/libs/slideout/0.1.11/slideout.min.js', array('jquery'), '', false);
 };
 add_action('wp_enqueue_scripts', 'wps_theme_js');
