@@ -68,127 +68,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/simple_icons_black\/Email.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 396,
-		"inputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Email.png",
-		"outputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Email.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/simple_icons_black\/Facebook.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 318,
-		"inputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Facebook.png",
-		"outputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Facebook.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/simple_icons_black\/Google+.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 432,
-		"inputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Google+.png",
-		"outputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Google+.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/simple_icons_black\/LinkedIn.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 356,
-		"inputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/LinkedIn.png",
-		"outputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/LinkedIn.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/simple_icons_black\/Pinboard.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 339,
-		"inputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Pinboard.png",
-		"outputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Pinboard.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/simple_icons_black\/Pinterest.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 443,
-		"inputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Pinterest.png",
-		"outputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Pinterest.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/simple_icons_black\/Pocket.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 375,
-		"inputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Pocket.png",
-		"outputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Pocket.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/simple_icons_black\/Reddit.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 509,
-		"inputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Reddit.png",
-		"outputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Reddit.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/simple_icons_black\/Tumblr.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 310,
-		"inputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Tumblr.png",
-		"outputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Tumblr.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/simple_icons_black\/Twitter.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 379,
-		"inputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Twitter.png",
-		"outputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Twitter.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/simple_icons_black\/Wordpress.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 625,
-		"inputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Wordpress.png",
-		"outputAbbreviatedPath": "\/assets\/img\/simple_icons_black\/Wordpress.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/assets\/img\/trail_header_image.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3809,6 +3688,33 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/sass-burger\/_burger.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/sass-burger\/_burger.scss",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_burger.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/bower_components\/sass-burger\/bower.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/sass-burger\/bower.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/bower_components\/sass-burger\/bower-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
 		},
 	"\/gulpfile.js": {
 		"fileType": 64,

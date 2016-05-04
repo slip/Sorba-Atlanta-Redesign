@@ -1,4 +1,4 @@
-
+// footer socials
 .footer-socials
   display: inline-block
 
@@ -11,10 +11,9 @@
 #share-icon
   float: left
   position: relative
-  top: 3px
-  left: -60px
-  background: pink
-    
+  top: -3px
+  left: 2em
+
 .share-menu
   list-style: none
   overflow: hidden
@@ -28,9 +27,20 @@
   background:
     image: url("/assets/img/share.png")
     repeat: no-repeat
+
   &:hover
-    height: 300px
-  
+    transition: all 0.25s ease-in-out
+    width: 300px
+
+  +media($mobile)
+    display: none
+
 .share-menu-item
+  display: inline
   position: relative
-  top: calc(35px + 0.5em)
+  left: calc(35px + 1em)
+  margin-left: 1em
+
+  img
+    width: 33px
+    height: 33px
