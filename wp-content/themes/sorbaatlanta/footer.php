@@ -8,7 +8,7 @@
     <ul>
       <li>
         <h6>Follow us</h6></li>
-      <div class="socials">
+      <div class="footer-socials">
         <a href="https://www.facebook.com/SORBA-Atlanta-Southern-Off-Road-Bicycle-Association-355177060787/"><img src="/assets/img/facebook.png"></a>
         <a href="https://twitter.com/SORBAAtlanta"><img src="/assets/img/twitter.png"></a>
         <a href="https://www.instagram.com/sorbaatlanta/"><img src="/assets/img/instagram.png"></a>
@@ -29,6 +29,5 @@
   <!-- end footer links -->
 </footer>
 <?php wp_footer(); ?>
-  </body>
-
-  </html>
+</body>
+</html>

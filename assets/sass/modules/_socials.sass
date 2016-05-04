@@ -1,7 +1,36 @@
-.socials
+
+.footer-socials
   display: inline-block
 
   img
     margin-right: 1.5em
     margin-top: 1em
     margin-bottom: 1em
+
+// social sharing for blog posts
+#share-icon
+  float: left
+  position: relative
+  top: 3px
+  left: -60px
+  background: pink
+    
+.share-menu
+  list-style: none
+  overflow: hidden
+  padding: 0
+  margin: 0
+  width: 34px
+  height: 33px
+  -webkit-padding-start: 0
+  -webkit-margin-before: 0
+  -webkit-margin-after: 0
+  background:
+    image: url("/assets/img/share.png")
+    repeat: no-repeat
+  &:hover
+    height: 300px
+  
+.share-menu-item
+  position: relative
+  top: calc(35px + 0.5em)
