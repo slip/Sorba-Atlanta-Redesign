@@ -1,0 +1,40 @@
+.trail-status
+  +span-columns(6)
+  +shift(3)
+  +box-shadow
+
+  border-radius: 5px
+  background-color: $SorbaOrange
+  color: white
+  border: 1px solid white
+  padding: 1em 0 0
+
+  h4
+    color: white
+    margin: 0
+
+  img
+    display: inline-block
+    position: relative
+    top: em(3px)
+    left: em(5px)
+
+  +media($laptop)
+    +span-columns(7)
+    +shift(1.5)
+
+
+  +media($tablet)
+    +span-columns(6)
+    +shift(1)
+
+
+  +media($mobile)
+    +span-columns(3.5)
+    +shift(0.25)
+
+  +media($mobile-s)
+    padding-left: 1em
+    padding-right: 1em
+    +fill-parent
+    +shift(0)

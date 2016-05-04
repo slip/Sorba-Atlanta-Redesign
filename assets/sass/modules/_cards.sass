@@ -1,0 +1,58 @@
+.cards
+  display: flex
+  flex-wrap: wrap
+  justify-content: space-around
+
+.card
+  flex: 0 1 325px
+  $card-transition-time: all 0.5s ease-in-out
+  $card-border-color: $SorbaGray
+  $card-border: 1px solid $card-border-color
+  $card-background: lighten($card-border-color, 35%)
+  $card-image-hover-opacity: 0.5
+  $card-image-hover-color: #FFF
+  margin-bottom: 1em
+  margin-left: .5em
+  margin-right: .5em
+
+  background-color: $card-background
+  border: $card-border
+  border-radius: $base-border-radius
+  box-shadow: 0 2px 4px darken($base-background-color, 15%)
+
+  .card-image
+    background-color: $card-image-hover-color
+    overflow: hidden
+    height: 190px
+
+    img
+      transition: $card-transition-time
+      +border-top-radius($base-border-radius)
+      min-height: 190px
+      opacity: 1
+
+  .card-header
+    +linear-gradient($SorbaDarkGray, $SorbaDarkBrown)
+    color: $SorbaOrange
+    border-bottom: $card-border
+    border-radius: $base-border-radius $base-border-radius 0 0
+    padding: ($base-spacing / 3) ($base-spacing / 2)
+    transition: $card-transition-time
+
+    a
+      color: $SorbaOrange
+
+    h4
+      margin: 0
+
+  .card-copy
+    padding: $base-spacing / 2
+    p
+      margin: 0
+
+  &:focus,
+  &:hover
+    cursor: pointer
+
+    img
+      opacity: $card-image-hover-opacity
