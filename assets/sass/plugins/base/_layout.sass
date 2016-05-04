@@ -12,9 +12,16 @@ html
 *::after
   box-sizing: inherit
 
+// do this for the sticky footer
+body
+  display: flex
+  min-height: 100vh
+  flex-direction: column
+
 .container
   +outer-container
   +clearfix
+  flex: 1 //do this for the sticky footer
 
 .inner-container
   +span-columns(8)
