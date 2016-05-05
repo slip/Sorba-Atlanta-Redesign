@@ -19,7 +19,7 @@
 <body>
 
   <?php
-  $menu_args = array('container' => 'nav', 'container_id' => 'wps-menu');
+  $menu_args = array('menu' => 'primary-menu' ,'container' => 'nav', 'container_id' => 'wps-menu');
   wp_nav_menu($menu_args);
   ?>
 
@@ -28,10 +28,9 @@
   </a>
 
   <main class="site">
-  <div id="sidr">
-    <ul>
-      <li><a href="#">List 1</a></li>
-      <li><a href="#">List 2</a></li>
-      <li><a href="#">List 3</a></li>
-    </ul>
-  </div>
+    <div id="sidr">
+      <?php
+      $menu_args = array('menu' => 'mobile-menu','container' => 'nav', 'container_id' => 'wps-mobile-menu');
+      wp_nav_menu($menu_args);
+      ?>
+    </div>

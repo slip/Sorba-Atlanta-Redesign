@@ -12,6 +12,7 @@ add_filter('excerpt_length', 'wps_excerpt_length');
 function register_theme_menus()
 {
   register_nav_menus(array ('primary-menu' => __('Primary Menu')));
+  register_nav_menus(array ('mobile-menu' => __('Mobile Menu')));
 }
 
 add_action('init', 'register_theme_menus');
