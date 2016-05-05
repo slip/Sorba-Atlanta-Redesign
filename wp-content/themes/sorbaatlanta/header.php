@@ -8,11 +8,11 @@
 
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title><?php wp_title(); ?></title>
   <meta name="author" content="Resolution Digital Type and Image">
-  <meta name="description" content="description here">
-  <meta name="keywords" content="keywords,here">
+  <meta name="description" content="Your full service design shop in Athens, Georgial.">
+  <meta name="keywords" content="Design, Development, Web, Print">
   <?php wp_head(); ?>
   <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
 </head>
