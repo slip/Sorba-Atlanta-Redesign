@@ -11702,6 +11702,57 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/wp-content\/themes\/sorbaatlanta\/plugins\/sidr\/jquery.sidr.bare.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/plugins\/sidr\/jquery.sidr.bare.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/sorbaatlanta\/plugins\/sidr\/jquery.sidr.dark.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/plugins\/sidr\/jquery.sidr.dark.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/wp-content\/themes\/sorbaatlanta\/plugins\/sidr\/jquery.sidr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/plugins\/sidr\/jquery.sidr.js",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/plugins\/sidr\/min\/jquery.sidr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/themes\/sorbaatlanta\/plugins\/sidr\/jquery.sidr.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/plugins\/sidr\/jquery.sidr.min.js",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/plugins\/sidr\/min\/jquery.sidr.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/wp-content\/themes\/sorbaatlanta\/plugins\/sticky\/jquery.sticky.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/plugins\/sticky\/jquery.sticky.js",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/plugins\/sticky\/min\/jquery.sticky-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
 	"\/wp-content\/themes\/sorbaatlanta\/screenshot.png": {
 		"fileType": 32768,
 		"ignore": 0,

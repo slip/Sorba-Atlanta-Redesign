@@ -1,4 +1,4 @@
-.centered-navigation
+.menu-main-menu-container
   $base-font-color: #fff
   $centered-navigation-padding: 1em
   $centered-navigation-background: #fff
@@ -9,170 +9,97 @@
   $centered-navigation-submenu-padding: 1em
   $centered-navigation-submenu-width: 12em
   $centered-navigation-item-nudge: 2.2em
-  $horizontal-bar-mode: $mobile-screen
 
   +linear-gradient($SorbaDarkGray, $SorbaDarkBrown)
 
   min-height: $centered-navigation-height
   width: 100%
-  z-index: 9999
+  z-index: 999
   text-transform: uppercase
 
-  // Nav menu
-  .centered-navigation-wrapper
-    +outer-container
-
-    +clearfix
-
-    position: relative
-    z-index: 999
-    +break($menu-breakpoint)
-      display: none
-
-  ul.centered-navigation-menu
-    font-size: em(14)
-    letter-spacing: 0.15em
+  ul
     clear: both
     display: none
     margin: 0 auto
-    overflow: visibl
+    overflow: visible
     padding: 0
-    -webkit-transform-style: preserve-3d
-
-    // stop webkit flicker
-    width: 100%
-    z-index: 99999
-
-    &.show
-      display: block
-
-    +media($horizontal-bar-mode)
-      display: block
-      text-align: center
+    display: block
+    text-align: center
+    +break($large-screen)
+      display: none
 
   // The nav items
-  .nav-link:first-child
-    +media($horizontal-bar-mode)
-      margin-left: $centered-navigation-item-nudge
-
-  ul li.nav-link
-    display: block
+  li:first-child
+    margin-left: $centered-navigation-item-nudge
+  
+  // menu items
+  li
+    letter-spacing: .15em    
+    font-size: 14px    
+    padding-bottom: 1em
+    display: inline
     line-height: $centered-navigation-height
-    overflow: hidden
     padding-right: $centered-navigation-submenu-padding
-    text-align: right
+    text-align: center
     width: 100%
-    z-index: 9999
+    z-index: 999
     vertical-align: middle
 
     button
       text-transform: uppercase
-      font-size: em(16)
-      letter-spacing: 0.15em
+      font-size: 14px
+      letter-spacing: .15em
       position: relative
       top: -2px
 
     a
       color: $centered-navigation-color
-      display: inline-block
       outline: none
       text-decoration: none
+      padding-right: $centered-navigation-item-padding
 
       &:focus,
       &:hover
         color: $centered-navigation-color-hover
 
-        img
-          opacity: 0.7
-
-    img
-      position: relative
-      top: 6px
-
-    +media($horizontal-bar-mode)
-      background: transparent
-      display: inline
-      line-height: $centered-navigation-height
-
-      a
-        padding-right: $centered-navigation-item-padding
-
-  // Sub menus
-  li.menu-item-has-children.nav-link
-    padding-right: 0
-
-    +media($large-screen)
-      padding-right: $centered-navigation-submenu-padding
-
-
-    > ul > li:first-child a
-      padding-top: 1em
-
-    a
-      margin-right: $centered-navigation-submenu-padding
-
-    > a
-      padding-right: 0.6em
-
+  // menu item with children
   li.menu-item-has-children
-    overflow: visible
-    padding-right: 0
-
-    a
-      padding-right: $centered-navigation-submenu-padding
-
-    > a
-      padding-right: 1.6em
-      position: relative
-
-      +media($large-screen)
-        margin-right: $centered-navigation-submenu-padding
-
+    padding-right: $centered-navigation-submenu-padding
     &:focus > .sub-menu,
     &:hover > .sub-menu
       display: block
+    position: relative
 
-    +media($horizontal-bar-mode)
-      padding-right: $centered-navigation-submenu-padding
-      position: relative
-
+  // Sub menu
   ul.sub-menu
-    display: none
-    padding-left: 0
-    background-color: $centered-navigation-background
-
     +linear-gradient($SorbaDarkGray, $SorbaDarkBrown)
-
-    +media($horizontal-bar-mode)
-      left: -3em
-      position: absolute
-      top: 1.75em
-
-
-    .sub-menu.fly-out-right
-      +media($horizontal-bar-mode)
-        left: $centered-navigation-submenu-width - 0.2em
-        top: 0
-
-    .sub-menu.fly-out-left
-      +media($horizontal-bar-mode)
-        left: -$centered-navigation-submenu-width + 0.2em
-        top: 0
-
+    display: none
+    position: absolute
+    padding-top: 1em
+    padding-bottom: 1em
+    left: -64px
+    top: 30px
+    width: 175px
     li
       display: block
-      padding-right: 0
-
-      +media($horizontal-bar-mode)
-        line-height: $centered-navigation-height / 1.3
-
+      padding: 0
+      margin-left: auto
+      margin-right: auto
       a
-        display: inline-block
-        text-align: right
-        text-decoration: none
-        width: 100%
+        padding: 0 
+  
+// slideout stuff
+.hamburger-icon path
+  fill: white
 
-        +media($horizontal-bar-mode)
-          padding-left: $centered-navigation-submenu-padding
-          text-align: center
-          width: $centered-navigation-submenu-width
+#sidr
+  //display: none
+
+#wps-simple-menu
+  display: none
+  position: fixed
+  top: 12px
+  right: 20px
+  z-index: 1000
+  +break($large-screen)
+    display: block

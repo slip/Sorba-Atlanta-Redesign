@@ -9,6 +9,7 @@ __MACOSX
 .settings
 .classpath
 .sass-cache/
+config.codekit
 
 # OS generated files #
 ######################
@@ -34,3 +35,7 @@ Thumbs.db
 *.rar
 *.tar
 *.zip
+
+*.codekit
+
+config.codekit
