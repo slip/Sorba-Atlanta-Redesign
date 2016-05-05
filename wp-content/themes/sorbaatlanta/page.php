@@ -16,10 +16,10 @@
         </p>
       </div>
     </div>
-    <?php endwhile; else : ?>
-      <p>
-        <?php _e( 'Sorry, no pages found.' ); ?>
-      </p>
-      <?php endif; ?>
+  <?php endwhile; else : ?>
+    <p>
+      <?php _e( 'Sorry, no pages found.' ); ?>
+    </p>
+  <?php endif; ?>
 
-        <?php get_footer(); ?>
+<?php get_footer(); ?>
