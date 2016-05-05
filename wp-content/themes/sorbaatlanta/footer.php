@@ -1,4 +1,5 @@
-<footer class="footer" role="contentinfo">
+</main>
+ <footer class="footer" role="contentinfo">
   <div class="footer-links">
     <ul>
       <li>

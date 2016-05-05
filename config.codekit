@@ -11160,15 +11160,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/wp-content\/plugins\/give\/includes\/libraries\/googlechartlib\/icons\/GoogleChartIconNote.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/plugins\/give\/includes\/libraries\/googlechartlib\/icons\/GoogleChartIconNote.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/wp-content\/plugins\/give\/includes\/libraries\/googlechartlib\/markers\/GoogleChartCandlestickMarker.php": {
 		"fileType": 8192,
 		"ignore": 0,

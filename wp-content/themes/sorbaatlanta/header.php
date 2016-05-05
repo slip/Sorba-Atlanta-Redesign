@@ -16,16 +16,12 @@
   <?php wp_head(); ?>
   <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
 </head>
+<body>
 
-<div class="centered-navigation">
-  <div class="centered-navigation-wrapper">
-    <nav role="navigation">
-       <?php
-          $menu_args = array('container' => 'ul', 'menu_id' => 'js-centered-navigation-menu', 'menu_class' => 'centered-navigation-menu show', 'items_wrap' => '<ul id="js-centered-navigation-menu" class="centered-navigation-menu show">%3$s</ul>');
-      
-          wp_nav_menu($menu_args);
-        ?>
-    </nav>
-  </div>
-</div>
-<!--end nav-->
+<?php
+$menu_args = array('container' => 'nav', 'container_id' => 'menu');
+wp_nav_menu($menu_args);
+?>
+  
+<main id="main" class="panel">
+  <h1>Hi, This is the #main .panel</h1>
