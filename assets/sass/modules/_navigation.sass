@@ -9,31 +9,24 @@
   $centered-navigation-submenu-padding: 1em
   $centered-navigation-submenu-width: 12em
   $centered-navigation-item-nudge: 2.2em
-  $horizontal-bar-mode: $mobile-screen
 
   +linear-gradient($SorbaDarkGray, $SorbaDarkBrown)
 
   min-height: $centered-navigation-height
   width: 100%
-  z-index: 9999
+  z-index: 999
   text-transform: uppercase
 
   ul
-    font-size: em(14)
-    letter-spacing: .15em
     clear: both
     display: none
     margin: 0 auto
     overflow: visible
     padding: 0
-    -webkit-transform-style: preserve-3d
-
-    // stop webkit flicker
-    width: 100%
-    z-index: 99999
-
     display: block
     text-align: center
+    +break($large-screen)
+      display: none
 
   // The nav items
   li:first-child
@@ -41,19 +34,20 @@
   
   // menu items
   li
-    background: pink
+    letter-spacing: .15em    
+    font-size: 14px    
     padding-bottom: 1em
     display: inline
     line-height: $centered-navigation-height
     padding-right: $centered-navigation-submenu-padding
     text-align: center
     width: 100%
-    z-index: 9999
+    z-index: 999
     vertical-align: middle
 
     button
       text-transform: uppercase
-      font-size: em(16)
+      font-size: 14px
       letter-spacing: .15em
       position: relative
       top: -2px
@@ -84,7 +78,7 @@
     padding-top: 1em
     padding-bottom: 1em
     left: -64px
-    top: 20px
+    top: 30px
     width: 175px
     li
       display: block
@@ -92,4 +86,17 @@
       margin-left: auto
       margin-right: auto
       a
-        padding: 0
+        padding: 0 
+  
+// slideout stuff
+.hamburger-icon path
+  fill: white
+
+#simple-menu
+  display: none
+  position: absolute
+  top: 12px
+  left: 20px
+  z-index: 1000
+  +break($large-screen)
+    display: block
