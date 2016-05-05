@@ -256,15 +256,15 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/assets\/sass\/modules\/_navigation.sass": {
+	"\/assets\/sass\/modules\/_mixins.sass": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 2,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/assets\/sass\/modules\/_navigation.sass",
-		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_navigation.css",
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/sass\/modules\/_mixins.sass",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/_mixins.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
@@ -11753,15 +11753,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/single.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/wp-content\/themes\/sorbaatlanta\/style.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/style.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
