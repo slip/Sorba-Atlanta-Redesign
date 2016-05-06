@@ -169,22 +169,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
-	"\/assets\/sass\/modules\/_bullets.sass": {
-		"createSourceMap": 1,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 2,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/assets\/sass\/modules\/_bullets.sass",
-		"outputAbbreviatedPath": "\/assets\/sass\/css\/_bullets.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": false
-		},
 	"\/assets\/sass\/modules\/_cards.sass": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
@@ -2177,11 +2161,11 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/sass\/style.sass",
-		"outputAbbreviatedPath": "\/assets\/css\/style.css",
+		"outputAbbreviatedPath": "\/wp-content\/themes\/sorbaatlanta\/style.css",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
