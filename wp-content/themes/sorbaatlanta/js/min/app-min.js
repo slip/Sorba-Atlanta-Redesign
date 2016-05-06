@@ -1,5 +1,2 @@
-jQuery(document).ready(function () {
-  console.log("ready!"), jQuery("#wps-simple-menu").sidr(), jQuery("#wps-menu").sticky({
-    topSpacing: 0
-  })
-});
+jQuery(document).ready(function(){jQuery("#wps-simple-menu").sidr(),jQuery("#wps-menu").sticky({topSpacing:0}),jQuery("#sidr").css("display","block")});
+//# sourceMappingURL=./app-min.js.map
