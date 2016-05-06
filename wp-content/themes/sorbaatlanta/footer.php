@@ -1,12 +1,12 @@
 </main>
  <footer class="footer" role="contentinfo">
   <div class="footer-links">
-    <ul>
+    <ul class="footer-copyright">
       <li>
         <h6>&copy; <?php echo date('Y'); ?> SorbaAtlanta.org</h6></li>
       <li>design by <a href="http://www.resolutionathens.com">resolutionathens.com</a></li>
     </ul>
-    <ul>
+    <ul class="footer-socials-and-logos">
       <li>
         <h6>Follow us</h6></li>
       <div class="footer-socials">
@@ -16,7 +16,7 @@
       </div>
       <li><img src="/assets/img/IMBA-SORBA-min.png" alt="IMBA SORBA" style="width:150px;"></li>
     </ul>
-    <ul>
+    <ul class="newsletter-signup">
       <li>
         <h6>Sign up for our newsletter</h6></li>
       <li>
