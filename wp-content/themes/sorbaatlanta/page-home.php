@@ -10,8 +10,9 @@ Template Name: Home Page Template
       <a href="/index.php" class="hero-logo"><img src="/assets/img/sorba_logo.svg" alt="Sorba Logo"></a>
       <div class="container">
         <div class="trail-status">
-          <h4>Trail Status</h4>
-          <p><?php dynamic_sidebar( 'trail_status' ); ?> <img src="/assets/img/trailOpen.png" alt="Trail Open"></p>
+            <?php if (is_active_sidebar('trail_status')) : ?>
+          		<?php dynamic_sidebar('trail_status'); ?>
+          	<?php endif; ?>
         </div>
       </div>
     </div>
@@ -21,19 +22,21 @@ Template Name: Home Page Template
 <div class="container">
   <div class="cards">
     <?php
-$args = array( 'posts_per_page' => 3, 'order'=> 'DSC', 'orderby' => 'date' );
-$postslist = get_posts( $args );
-foreach ( $postslist as $post ) :
-  setup_postdata( $post ); ?>
+$args = array('posts_per_page' => 3, 'order' => 'DSC', 'orderby' => 'date');
+$postslist = get_posts($args);
+foreach ($postslist as $post) :
+  setup_postdata($post); ?>
   <div class="card">
-    <div class="card-image"><a href="<?php the_permalink() ?>"><img src="<?php if (has_post_thumbnail()) {the_post_thumbnail_url();} ?>" alt=""></a></div>
+    <div class="card-image"><a href="<?php the_permalink() ?>"><img src="<?php if (has_post_thumbnail()) {
+    the_post_thumbnail_url();
+} ?>" alt=""></a></div>
     <div class="card-header"><h4><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h4></div>
     <div class="card-copy"><?php the_excerpt(); ?></div>
   </div>
-<?php
-endforeach;
-wp_reset_postdata();
-?>
+  <?php
+  endforeach;
+  wp_reset_postdata();
+  ?>
   </div>
 </div>
 

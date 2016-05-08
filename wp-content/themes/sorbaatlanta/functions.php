@@ -37,12 +37,13 @@ add_action('wp_enqueue_scripts', 'wps_theme_js');
 function wps_widgets_init() {
 
 	register_sidebar( array(
-		'name'          => 'Trail Status',
+		'name'          => 'Trail Status Widget',
 		'id'            => 'trail_status',
+    'description'   => 'Add trail status text widget here.',
 		'before_widget' => '',
 		'after_widget'  => '',
-		'before_title'  => '',
-		'after_title'   => '',
+		'before_title'  => '<h4>',
+		'after_title'   => '</h4>',
 	) );
 
 }
