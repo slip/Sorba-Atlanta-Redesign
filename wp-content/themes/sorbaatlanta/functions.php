@@ -33,3 +33,17 @@ function wps_theme_js()
   wp_enqueue_script('sticky', get_template_directory_uri() . '/plugins/sticky/jquery.sticky.js', array('jquery'), '', false);
 };
 add_action('wp_enqueue_scripts', 'wps_theme_js');
+
+function wps_widgets_init() {
+
+	register_sidebar( array(
+		'name'          => 'Trail Status',
+		'id'            => 'trail_status',
+		'before_widget' => '',
+		'after_widget'  => '',
+		'before_title'  => '',
+		'after_title'   => '',
+	) );
+
+}
+add_action( 'widgets_init', 'wps_widgets_init' );
