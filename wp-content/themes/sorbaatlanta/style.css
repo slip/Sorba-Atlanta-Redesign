@@ -1000,6 +1000,8 @@ table {
   padding: 1em 0 0; }
   .trail-status:last-child {
     margin-right: 0; }
+  .trail-status .textwidget {
+    margin-bottom: 1em; }
   .trail-status h4 {
     color: white;
     margin: 0; }
