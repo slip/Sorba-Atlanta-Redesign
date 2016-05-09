@@ -853,7 +853,7 @@ table {
   margin-bottom: 3em; }
   .hero .hero-logo img, .hero-trails .hero-logo img {
     height: 18.75em;
-    margin-bottom: 1em; }
+    margin-bottom: 2em; }
   .hero .hero-inner, .hero-trails .hero-inner {
     padding: 2em;
     text-align: center; }
@@ -938,7 +938,8 @@ table {
           flex-wrap: wrap;
   -webkit-justify-content: space-around;
       -ms-flex-pack: distribute;
-          justify-content: space-around; }
+          justify-content: space-around;
+  margin-bottom: 2em; }
 
 .card {
   -webkit-box-flex: 0;
@@ -994,22 +995,11 @@ table {
   margin-left: 25.5319148936%;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.5);
   border-radius: 5px;
-  background-color: #e18839;
-  color: white;
-  border: 1px solid white;
+  background-color: white;
+  border: 2px solid #e18839;
   padding: 1em 0 0; }
   .trail-status:last-child {
     margin-right: 0; }
-  .trail-status .textwidget {
-    margin-bottom: 1em; }
-  .trail-status h4 {
-    color: white;
-    margin: 0; }
-  .trail-status img {
-    display: inline-block;
-    position: relative;
-    top: 0.1875em;
-    left: 0.3125em; }
   @media screen and (max-width: 1024px) {
     .trail-status {
       float: left;
@@ -1043,28 +1033,6 @@ table {
       padding-right: 1em;
       width: 100%;
       margin-left: 0%; } }
-
-blockquote.twitter-tweet {
-  display: inline-block;
-  padding: 16px;
-  margin: 10px 0;
-  max-width: 468px;
-  border: #ddd 1px solid;
-  border-top-color: #eee;
-  border-bottom-color: #bbb;
-  border-radius: 5px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
-  font: bold 14px/18px Helvetica, Arial, sans-serif;
-  color: #000; }
-
-blockquote.twitter-tweet p {
-  font: normal 18px/24px Georgia, "Times New Roman", Palatino, serif;
-  margin: 0 5px 10px 0; }
-
-blockquote.twitter-tweet a[href^="https://twitter.com"] {
-  font-weight: normal;
-  color: #666;
-  font-size: 12px; }
 
 #share-icon {
   float: left;
