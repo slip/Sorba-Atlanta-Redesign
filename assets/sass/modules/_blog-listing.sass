@@ -3,23 +3,19 @@
   +span-columns(7)
   +shift(2.5)
 
+
   article
-    +clearfix
+    display: flex
+    justify-content: space-between
     margin-bottom: 2em
+
+    +media($mobile)
+      flex-direction: column
 
   a
     &:hover
       text-decoration: none
       color: $SorbaBlue
-
-  h1
-    text-align: left
-    margin-bottom: 0
-
-    img
-      position: relative
-      top: .35em
-      float: right
 
   h2
     margin-bottom: 0
@@ -28,11 +24,29 @@
       text-decoration: none
       color: $SorbaRed
 
-  .thumbnail-container, .excerpt-container
-    +span-columns(3 of 6)
+  .thumbnail-container
+    margin-bottom: 2em
+    margin-right: 1em
+    width: 100%
+
+  .excerpt-container
+    // flex-shrink: 1
+
 
   hr
     height: 12px
     border: 0
     box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5)
     margin-bottom: 3em
+
+  +media($tablet)
+    +span-columns(7)
+    +shift(0.5)
+
+  +media($mobile)
+    +span-columns(3.5)
+    +shift(0.25)
+
+  +media($mobile-s)
+    +span-columns(1.75)
+    +shift(0.125)
