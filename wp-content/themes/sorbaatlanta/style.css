@@ -853,7 +853,7 @@ table {
   margin-bottom: 3em; }
   .hero .hero-logo img, .hero-trails .hero-logo img {
     height: 18.75em;
-    margin-bottom: 1em; }
+    margin-bottom: 2em; }
   .hero .hero-inner, .hero-trails .hero-inner {
     padding: 2em;
     text-align: center; }
@@ -995,22 +995,11 @@ table {
   margin-left: 25.5319148936%;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.5);
   border-radius: 5px;
-  background-color: #e18839;
-  color: white;
-  border: 1px solid white;
+  background-color: white;
+  border: 2px solid #e18839;
   padding: 1em 0 0; }
   .trail-status:last-child {
     margin-right: 0; }
-  .trail-status .textwidget {
-    margin-bottom: 1em; }
-  .trail-status h4 {
-    color: white;
-    margin: 0; }
-  .trail-status img {
-    display: inline-block;
-    position: relative;
-    top: 0.1875em;
-    left: 0.3125em; }
   @media screen and (max-width: 1024px) {
     .trail-status {
       float: left;

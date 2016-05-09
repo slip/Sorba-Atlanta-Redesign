@@ -1,1 +1,1 @@
-{"version":3,"sources":["../app.js"],"names":["jQuery","document","ready","sidr","sticky","topSpacing","css"],"mappings":"AAAAA,OAAOC,UAAUC,MAAM,WACrBF,OAAO,oBAAoBG,OAC3BH,OAAO,aAAaI,QAAQC,WAAW,IACvCL,OAAO,SAASM,IAAI,UAAU","file":"app-min.js"}
+{"version":3,"sources":["../app.js"],"names":["jQuery","document","ready","sidr","sticky","topSpacing","css"],"mappings":"AAAAA,OAAOC,UAAUC,MAAM,WACnBF,OAAO,oBAAoBG,OAC3BH,OAAO,aAAaI,QAChBC,WAAY,IAEhBL,OAAO,SAASM,IAAI,UAAW","file":"app-min.js"}
