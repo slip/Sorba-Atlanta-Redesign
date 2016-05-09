@@ -946,8 +946,8 @@ table {
       -ms-flex: 0 1 325px;
           flex: 0 1 325px;
   margin-bottom: 1em;
-  margin-left: .5em;
-  margin-right: .5em;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
   background-color: #f4f4f4;
   border: 1px solid #9b9b9b;
   border-radius: 3px;
@@ -957,8 +957,8 @@ table {
     overflow: hidden;
     height: 190px; }
     .card .card-image img {
-      -webkit-transition: all .5s ease-in-out;
-      transition: all .5s ease-in-out;
+      -webkit-transition: all 0.5s ease-in-out;
+      transition: all 0.5s ease-in-out;
       border-top-left-radius: 3px;
       border-top-right-radius: 3px;
       min-height: 190px;
@@ -971,8 +971,8 @@ table {
     border-bottom: 1px solid #9b9b9b;
     border-radius: 3px 3px 0 0;
     padding: 0.5em 0.75em;
-    -webkit-transition: all .5s ease-in-out;
-    transition: all .5s ease-in-out; }
+    -webkit-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out; }
     .card .card-header a {
       color: #e18839; }
     .card .card-header h4 {
@@ -1043,6 +1043,28 @@ table {
       padding-right: 1em;
       width: 100%;
       margin-left: 0%; } }
+
+blockquote.twitter-tweet {
+  display: inline-block;
+  padding: 16px;
+  margin: 10px 0;
+  max-width: 468px;
+  border: #ddd 1px solid;
+  border-top-color: #eee;
+  border-bottom-color: #bbb;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  font: bold 14px/18px Helvetica, Arial, sans-serif;
+  color: #000; }
+
+blockquote.twitter-tweet p {
+  font: normal 18px/24px Georgia, "Times New Roman", Palatino, serif;
+  margin: 0 5px 10px 0; }
+
+blockquote.twitter-tweet a[href^="https://twitter.com"] {
+  font-weight: normal;
+  color: #666;
+  font-size: 12px; }
 
 #share-icon {
   float: left;
