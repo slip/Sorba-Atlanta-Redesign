@@ -23281,6 +23281,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/wp-snapshots\/tmp\/20160507_sorbaatlanta_572dd5d3db3ac5597160507114731_scan.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wp-snapshots\/tmp\/20160507_sorbaatlanta_572dd5d3db3ac5597160507114731_scan.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/wp-snapshots\/tmp\/20160507_sorbaatlanta_572dd5d3db3ac5597160507114731_scan-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
 	"\/wp-trackback.php": {
 		"fileType": 8192,
 		"ignore": 0,
