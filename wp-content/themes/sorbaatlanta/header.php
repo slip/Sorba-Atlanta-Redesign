@@ -11,8 +11,8 @@
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <title><?php wp_title(); ?></title>
   <meta name="author" content="Resolution Digital Type and Image">
-  <meta name="description" content="Your full service design shop in Athens, Georgial.">
-  <meta name="keywords" content="Design, Development, Web, Print">
+  <meta name="description" content="The Southern Off-Road Bicycle Association (SORBA) is the largest nonprofit mountain biking organization in the Southeast.">
+  <meta name="keywords" content="Biking, Cycling, Trails, Atlanta, Georgia, SORBA, IMBA">
   <?php wp_head(); ?>
   <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
 </head>
