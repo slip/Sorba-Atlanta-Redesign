@@ -9,7 +9,7 @@ Template Name: Home Page Template
     <div class="hero-inner">
       <a href="/index.php" class="hero-logo"><img src="/assets/img/sorba_logo.svg" alt="Sorba Logo"></a>
       <div class="container">
-        <div class="trail-status">
+        <div class="trail-status" style="min-height:140px;">
           <a
             class="twitter-timeline"
             data-dnt="true"
