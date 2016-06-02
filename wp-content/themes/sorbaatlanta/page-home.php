@@ -14,7 +14,7 @@ Template Name: Home Page Template
             class="twitter-timeline"
             data-dnt="true"
             href="https://twitter.com/SORBAAtlanta"
-            data-widget-id="729387820821979142"
+            data-widget-id="734785219702718464"
             data-link-color="#2866fa"
             data-chrome="noheader nofooter noborders noscrollbar transparent"
             data-tweet-limit="1"></a>
