@@ -31,11 +31,11 @@
   // The nav items
   li:first-child
     margin-left: $centered-navigation-item-nudge
-  
+
   // menu items
   li
-    letter-spacing: .15em    
-    font-size: 14px    
+    letter-spacing: .15em
+    font-size: 14px
     padding-bottom: 1em
     display: inline
     line-height: $centered-navigation-height
@@ -86,8 +86,8 @@
       margin-left: auto
       margin-right: auto
       a
-        padding: 0 
-  
+        padding: 0
+
 // slideout stuff
 .hamburger-icon path
   fill: white
@@ -100,6 +100,9 @@
   position: fixed
   top: 12px
   right: 20px
-  z-index: 1000
+  z-index: 1000 !important
   +break($large-screen)
     display: block
+
+#wps-menu
+  z-index: 1000 !important
