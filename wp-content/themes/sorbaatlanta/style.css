@@ -1,11 +1,11 @@
 /**!
- * Theme Name: Sorba Atlanta
- * Author: Resolution Digital Type and Image
- * Author URI: http://www.resolutionathens.com
- * Description: This theme was created in 2016 for http://www.sorbatlanta.com.
- * Version: 1.0
- * License: GNU General Public License v2 or later
- * License URI: http://www.gnu.org/licenses/gpl-2.0.html */
+  * Theme Name: Sorba Atlanta
+  * Author: Resolution Digital Type and Image
+  * Author URI: http://www.resolutionathens.com
+  * Description: This theme was created in 2016 for http://www.sorbatlanta.com.
+  * Version: 1.0
+  * License: GNU General Public License v2 or later
+  * License URI: http: */
 html,
 body,
 div,
@@ -120,11 +120,11 @@ q {
   quotes: none; }
 
 blockquote:before, blockquote:after {
-  content: "";
+  content: '';
   content: none; }
 
 q:before, q:after {
-  content: "";
+  content: '';
   content: none; }
 
 ins {
@@ -175,7 +175,7 @@ button, input[type="button"], input[type="reset"], input[type="submit"] {
     background-image: linear-gradient(#fad961, #f76b1c); }
   button:disabled, input[type="button"]:disabled, input[type="reset"]:disabled, input[type="submit"]:disabled {
     cursor: not-allowed;
-    opacity: .5; }
+    opacity: 0.5; }
     button:disabled:hover, input[type="button"]:disabled:hover, input[type="reset"]:disabled:hover, input[type="submit"]:disabled:hover {
       background-color: #2866fa; }
 
@@ -265,13 +265,11 @@ html {
 
 body {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   min-height: 100vh;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
   width: 100%;
@@ -288,7 +286,6 @@ body {
 
 main {
   -webkit-box-flex: 1;
-  -webkit-flex: 1;
       -ms-flex: 1;
           flex: 1; }
 
@@ -442,7 +439,7 @@ label {
 
 p.small {
   margin: 0;
-  font-size: .875em;
+  font-size: 0.875em;
   line-height: 1.71em;
   margin-bottom: 1.71em; }
 
@@ -482,7 +479,7 @@ button, input[type="button"], input[type="reset"], input[type="submit"] {
     background-image: linear-gradient(#fad961, #f76b1c); }
   button:disabled, input[type="button"]:disabled, input[type="reset"]:disabled, input[type="submit"]:disabled {
     cursor: not-allowed;
-    opacity: .5; }
+    opacity: 0.5; }
     button:disabled:hover, input[type="button"]:disabled:hover, input[type="reset"]:disabled:hover, input[type="submit"]:disabled:hover {
       background-color: #2866fa; }
 
@@ -572,13 +569,11 @@ html {
 
 body {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   min-height: 100vh;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
   width: 100%;
@@ -595,7 +590,6 @@ body {
 
 main {
   -webkit-box-flex: 1;
-  -webkit-flex: 1;
       -ms-flex: 1;
           flex: 1; }
 
@@ -749,7 +743,7 @@ label {
 
 p.small {
   margin: 0;
-  font-size: .875em;
+  font-size: 0.875em;
   line-height: 1.71em;
   margin-bottom: 1.71em; }
 
@@ -779,7 +773,7 @@ table {
   .menu-main-menu-container li:first-child {
     margin-left: 2.2em; }
   .menu-main-menu-container li {
-    letter-spacing: 0.15em;
+    letter-spacing: .15em;
     font-size: 14px;
     padding-bottom: 1em;
     display: inline;
@@ -792,7 +786,7 @@ table {
     .menu-main-menu-container li button {
       text-transform: uppercase;
       font-size: 14px;
-      letter-spacing: 0.15em;
+      letter-spacing: .15em;
       position: relative;
       top: -2px; }
     .menu-main-menu-container li a {
@@ -805,7 +799,8 @@ table {
   .menu-main-menu-container li.menu-item-has-children {
     padding-right: 1em;
     position: relative; }
-    .menu-main-menu-container li.menu-item-has-children:focus > .sub-menu, .menu-main-menu-container li.menu-item-has-children:hover > .sub-menu {
+    .menu-main-menu-container li.menu-item-has-children:focus > .sub-menu,
+    .menu-main-menu-container li.menu-item-has-children:hover > .sub-menu {
       display: block; }
   .menu-main-menu-container ul.sub-menu {
     background-color: #47474b;
@@ -901,7 +896,7 @@ table {
     background-color: lightgray;
     border-bottom: 0;
     border-left: 1px solid #9b9b9b;
-    padding: .75em 1em;
+    padding: 0.75em 1em;
     text-align: left; }
     .tables thead th:first-child {
       border-left: 0; }
@@ -911,17 +906,17 @@ table {
       border-bottom: 0;
       border-left: 1px solid #9b9b9b;
       border-top: 1px solid #9b9b9b;
-      padding: .75em 1em; }
+      padding: 0.75em 1em; }
       .tables tbody td:first-child {
         border-left: 0; }
       .tables tbody td button {
         display: inline-block;
-        font-size: .7em;
+        font-size: 0.7em;
         line-height: 1.5;
-        margin-bottom: .3em;
-        margin-right: .5em;
+        margin-bottom: 0.3em;
+        margin-right: 0.5em;
         outline: none;
-        padding: .3em 1em;
+        padding: 0.3em 1em;
         width: 100%; }
         @media screen and (min-width: 600px) {
           .tables tbody td button {
@@ -930,25 +925,21 @@ table {
 
 .cards {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
-  -webkit-justify-content: space-around;
-      -ms-flex-pack: distribute;
-          justify-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
   margin-bottom: 3em; }
 
 .card {
   -webkit-box-flex: 0;
-  -webkit-flex: 0 1 325px;
       -ms-flex: 0 1 325px;
           flex: 0 1 325px;
   margin-bottom: 1em;
-  margin-left: 0.5em;
-  margin-right: 0.5em;
+  margin-left: .5em;
+  margin-right: .5em;
   background-color: #f4f4f4;
   border: 1px solid #9b9b9b;
   border-radius: 3px;
@@ -1077,22 +1068,17 @@ table {
   width: 100%; }
   .footer .footer-links {
     display: -webkit-box;
-    display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    -webkit-flex-wrap: wrap;
-        -ms-flex-wrap: wrap;
-            flex-wrap: wrap;
-    -webkit-justify-content: space-around;
-        -ms-flex-pack: distribute;
-            justify-content: space-around; }
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -ms-flex-pack: distribute;
+        justify-content: space-around; }
   .footer ul {
-    -webkit-flex-basis: 20em;
-        -ms-flex-preferred-size: 20em;
-            flex-basis: 20em;
-    -webkit-flex-shrink: 0;
-        -ms-flex-negative: 0;
-            flex-shrink: 0;
+    -ms-flex-preferred-size: 20em;
+        flex-basis: 20em;
+    -ms-flex-negative: 0;
+        flex-shrink: 0;
     margin-bottom: 3em;
     padding: 0; }
   .footer li {
@@ -1103,7 +1089,7 @@ table {
   .footer li a {
     color: rgba(255, 255, 255, 0.6);
     text-decoration: none;
-    font-size: 0.8em; }
+    font-size: .8em; }
     .footer li a:focus, .footer li a:hover {
       color: white; }
   .footer li h6 {
@@ -1111,37 +1097,35 @@ table {
     font-size: 1em;
     margin-bottom: 0.5em; }
 
-.footer-socials {
+.footer-socials ul {
+  list-style: none; }
+
+.footer-socials li {
   display: inline-block; }
-  .footer-socials img {
-    margin-right: 1em;
-    margin-top: 0.5em;
-    margin-bottom: 1em; }
+
+.footer-socials img {
+  width: 40px;
+  margin-right: 1em;
+  margin-top: 0.5em; }
 
 @media screen and (max-width: 1000px) {
   .footer-links {
     margin-left: 2em; }
-
   #email-input {
     width: 260px; }
-
   .newsletter-signup {
     -webkit-box-ordinal-group: 1;
-    -webkit-order: 0;
         -ms-flex-order: 0;
             order: 0; }
-
   .footer-copyright {
     -webkit-box-ordinal-group: 3;
-    -webkit-order: 2;
         -ms-flex-order: 2;
             order: 2; }
-
   .footer-socials-and-logos {
     -webkit-box-ordinal-group: 2;
-    -webkit-order: 1;
         -ms-flex-order: 1;
             order: 1; } }
+
 .blog-listing {
   max-width: 1200px;
   margin-left: auto;
@@ -1159,11 +1143,9 @@ table {
     margin-right: 0; }
   .blog-listing article {
     display: -webkit-box;
-    display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: justify;
-    -webkit-justify-content: space-between;
         -ms-flex-pack: justify;
             justify-content: space-between;
     margin-bottom: 2em; }
@@ -1171,7 +1153,6 @@ table {
       .blog-listing article {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
-        -webkit-flex-direction: column;
             -ms-flex-direction: column;
                 flex-direction: column; } }
   .blog-listing a:hover {
@@ -1186,9 +1167,8 @@ table {
     margin-bottom: 2em;
     margin-right: 1em;
     width: 100%;
-    -webkit-flex-shrink: 1;
-        -ms-flex-negative: 1;
-            flex-shrink: 1; }
+    -ms-flex-negative: 1;
+        flex-shrink: 1; }
   .blog-listing hr {
     height: 12px;
     border: 0;
@@ -1242,7 +1222,6 @@ table {
 
 .title-and-share {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex; }
   .title-and-share h1 {
@@ -1261,21 +1240,19 @@ ul.post-meta {
 
 .give-form-wrap h2 {
   display: none; }
+
 @media screen and (max-width: 480px) {
   .give-form-wrap .give-tooltip {
     display: none; } }
 
 .board-members {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
-  -webkit-justify-content: space-around;
-      -ms-flex-pack: distribute;
-          justify-content: space-around; }
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around; }
 
 .board-member {
   background: none;
@@ -1294,19 +1271,16 @@ ul.post-meta {
 
 .board-member-title {
   text-align: center;
-  font-size: .875em; }
+  font-size: 0.875em; }
 
 .trail-pics {
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
-  -webkit-justify-content: space-around;
-      -ms-flex-pack: distribute;
-          justify-content: space-around; }
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around; }
   .trail-pics img {
     margin: 1em; }
 
