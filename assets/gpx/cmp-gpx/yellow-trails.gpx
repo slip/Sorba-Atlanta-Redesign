@@ -1,0 +1,2607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1"
+ creator="DeLorme Topo USA® 7.0 - http://www.delorme.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<trk>
+<name>Trk 001</name>
+<src>DeLorme Topo USA® 7.0</src>
+<trkseg>
+<trkpt lat="33.571318269" lon="-84.712903619">
+<ele>255.514572</ele>
+<time>2015-12-14T23:57:13Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571151376" lon="-84.712977886">
+<ele>256.534119</ele>
+<time>2015-12-14T23:57:14Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571211219" lon="-84.713137507">
+<ele>255.991501</ele>
+<time>2015-12-14T23:57:15Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571366429" lon="-84.713246465">
+<ele>256.000000</ele>
+<time>2015-12-14T23:57:15Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571449161" lon="-84.713388801">
+<ele>256.507172</ele>
+<time>2015-12-14T23:57:16Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571606159" lon="-84.713459015">
+<ele>256.000000</ele>
+<time>2015-12-14T23:57:16Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571694255" lon="-84.713656783">
+<ele>255.435638</ele>
+<time>2015-12-14T23:57:17Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571790218" lon="-84.713806510">
+<ele>255.033325</ele>
+<time>2015-12-14T23:57:18Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571775198" lon="-84.713792443">
+<ele>255.456787</ele>
+<time>2015-12-14T23:57:22Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571828008" lon="-84.713921666">
+<ele>254.989044</ele>
+<time>2015-12-14T23:57:23Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571815491" lon="-84.714070082">
+<ele>255.000000</ele>
+<time>2015-12-14T23:57:23Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571812510" lon="-84.714233875">
+<ele>255.051620</ele>
+<time>2015-12-14T23:57:24Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571714044" lon="-84.714356661">
+<ele>255.909973</ele>
+<time>2015-12-14T23:57:24Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571665049" lon="-84.714504242">
+<ele>255.996796</ele>
+<time>2015-12-14T23:57:25Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571564198" lon="-84.714617729">
+<ele>256.034607</ele>
+<time>2015-12-14T23:57:25Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571643591" lon="-84.714881420">
+<ele>253.565842</ele>
+<time>2015-12-14T23:57:26Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571614265" lon="-84.715108275">
+<ele>252.437637</ele>
+<time>2015-12-14T23:57:26Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571664572" lon="-84.715265274">
+<ele>251.134399</ele>
+<time>2015-12-14T23:57:27Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571662545" lon="-84.715508819">
+<ele>249.332565</ele>
+<time>2015-12-14T23:57:28Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571749806" lon="-84.715401769">
+<ele>249.527115</ele>
+<time>2015-12-14T23:57:28Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571787834" lon="-84.715286970">
+<ele>249.870117</ele>
+<time>2015-12-14T23:57:29Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571774960" lon="-84.715115786">
+<ele>251.370316</ele>
+<time>2015-12-14T23:57:29Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571837902" lon="-84.714955688">
+<ele>251.493881</ele>
+<time>2015-12-14T23:57:30Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572007298" lon="-84.714895606">
+<ele>249.521790</ele>
+<time>2015-12-14T23:57:30Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572160363" lon="-84.714861751">
+<ele>247.458542</ele>
+<time>2015-12-14T23:57:31Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572249770" lon="-84.714834929">
+<ele>246.439667</ele>
+<time>2015-12-14T23:57:31Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572299242" lon="-84.714947104">
+<ele>245.427155</ele>
+<time>2015-12-14T23:57:32Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572144747" lon="-84.715137601">
+<ele>246.325180</ele>
+<time>2015-12-14T23:57:32Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572120547" lon="-84.715409636">
+<ele>245.450806</ele>
+<time>2015-12-14T23:57:33Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571995974" lon="-84.715646029">
+<ele>245.678955</ele>
+<time>2015-12-14T23:57:33Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571851254" lon="-84.715933442">
+<ele>244.850723</ele>
+<time>2015-12-14T23:57:34Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571624398" lon="-84.716037869">
+<ele>244.597168</ele>
+<time>2015-12-14T23:57:35Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571502090" lon="-84.716156483">
+<ele>244.236115</ele>
+<time>2015-12-14T23:57:35Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571364522" lon="-84.716146469">
+<ele>243.963791</ele>
+<time>2015-12-14T23:57:36Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571289897" lon="-84.716188073">
+<ele>243.953995</ele>
+<time>2015-12-14T23:57:37Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571211934" lon="-84.715893030">
+<ele>244.948212</ele>
+<time>2015-12-14T23:57:39Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571127534" lon="-84.715648293">
+<ele>247.124069</ele>
+<time>2015-12-14T23:57:39Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571034670" lon="-84.715352416">
+<ele>248.515610</ele>
+<time>2015-12-14T23:57:40Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570941329" lon="-84.715064764">
+<ele>249.013824</ele>
+<time>2015-12-14T23:57:40Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570828557" lon="-84.714731216">
+<ele>248.981155</ele>
+<time>2015-12-14T23:57:41Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570860744" lon="-84.714360356">
+<ele>251.532898</ele>
+<time>2015-12-14T23:57:42Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570762753" lon="-84.713977695">
+<ele>252.016617</ele>
+<time>2015-12-14T23:57:42Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570706487" lon="-84.713716149">
+<ele>252.001266</ele>
+<time>2015-12-14T23:57:43Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570709109" lon="-84.713478565">
+<ele>252.692398</ele>
+<time>2015-12-14T23:57:44Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570880055" lon="-84.713212967">
+<ele>254.484131</ele>
+<time>2015-12-14T23:57:44Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571105838" lon="-84.713091135">
+<ele>255.966263</ele>
+<time>2015-12-14T23:57:45Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571151376" lon="-84.712977886">
+<ele>256.534119</ele>
+<time>2015-12-14T23:57:46Z</time>
+<fix>3d</fix>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>Trk 002</name>
+<src>DeLorme Topo USA® 7.0</src>
+<trkseg>
+<trkpt lat="33.571326137" lon="-84.716281533">
+<ele>243.495590</ele>
+<time>2015-12-14T23:57:49Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571372509" lon="-84.716498494">
+<ele>243.265167</ele>
+<time>2015-12-14T23:57:50Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571396112" lon="-84.716705680">
+<ele>243.000000</ele>
+<time>2015-12-14T23:57:51Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571447968" lon="-84.716883898">
+<ele>243.000214</ele>
+<time>2015-12-14T23:57:51Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571441293" lon="-84.717071295">
+<ele>243.507492</ele>
+<time>2015-12-14T23:57:52Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571396589" lon="-84.717179775">
+<ele>243.500000</ele>
+<time>2015-12-14T23:57:53Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571277976" lon="-84.717250228">
+<ele>244.011276</ele>
+<time>2015-12-14T23:57:53Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571125627" lon="-84.717292070">
+<ele>244.000000</ele>
+<time>2015-12-14T23:57:54Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570908189" lon="-84.717345953">
+<ele>243.502518</ele>
+<time>2015-12-14T23:57:55Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570751548" lon="-84.717407703">
+<ele>243.566910</ele>
+<time>2015-12-14T23:57:56Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570532680" lon="-84.717396736">
+<ele>243.500000</ele>
+<time>2015-12-14T23:57:56Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570297241" lon="-84.717400432">
+<ele>243.681519</ele>
+<time>2015-12-14T23:57:57Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570399165" lon="-84.717538595">
+<ele>243.887970</ele>
+<time>2015-12-14T23:57:57Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570539713" lon="-84.717693806">
+<ele>243.501099</ele>
+<time>2015-12-14T23:57:58Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570604086" lon="-84.717769742">
+<ele>243.500168</ele>
+<time>2015-12-14T23:57:58Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570733190" lon="-84.717851996">
+<ele>243.500000</ele>
+<time>2015-12-14T23:57:59Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570850968" lon="-84.718011975">
+<ele>244.000000</ele>
+<time>2015-12-14T23:58:00Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570932627" lon="-84.718040586">
+<ele>244.180283</ele>
+<time>2015-12-14T23:58:00Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570804358" lon="-84.718073606">
+<ele>244.073288</ele>
+<time>2015-12-14T23:58:01Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570580959" lon="-84.718121767">
+<ele>245.106583</ele>
+<time>2015-12-14T23:58:01Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570461154" lon="-84.718142748">
+<ele>245.923935</ele>
+<time>2015-12-14T23:58:02Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570336938" lon="-84.718138456">
+<ele>246.454300</ele>
+<time>2015-12-14T23:58:03Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570386291" lon="-84.718294382">
+<ele>247.698242</ele>
+<time>2015-12-14T23:58:04Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570467234" lon="-84.718358994">
+<ele>247.926559</ele>
+<time>2015-12-14T23:58:05Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570563436" lon="-84.718308449">
+<ele>246.896393</ele>
+<time>2015-12-14T23:58:06Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570644975" lon="-84.718324542">
+<ele>246.511917</ele>
+<time>2015-12-14T23:58:06Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570631027" lon="-84.718387246">
+<ele>247.251389</ele>
+<time>2015-12-14T23:58:07Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570455313" lon="-84.718511820">
+<ele>249.739090</ele>
+<time>2015-12-14T23:58:08Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570341349" lon="-84.718629479">
+<ele>251.577393</ele>
+<time>2015-12-14T23:58:08Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570197821" lon="-84.718819857">
+<ele>253.754181</ele>
+<time>2015-12-14T23:58:10Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570119023" lon="-84.719029546">
+<ele>255.737930</ele>
+<time>2015-12-14T23:58:10Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570182204" lon="-84.719121695">
+<ele>255.984558</ele>
+<time>2015-12-14T23:58:11Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570259809" lon="-84.718996525">
+<ele>255.387741</ele>
+<time>2015-12-14T23:58:11Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570367455" lon="-84.718940139">
+<ele>254.715942</ele>
+<time>2015-12-14T23:58:12Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570587158" lon="-84.718877792">
+<ele>253.459412</ele>
+<time>2015-12-14T23:58:13Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570680261" lon="-84.718894839">
+<ele>253.675140</ele>
+<time>2015-12-14T23:58:13Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570814610" lon="-84.718949914">
+<ele>253.275009</ele>
+<time>2015-12-14T23:58:14Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570829749" lon="-84.719116330">
+<ele>254.494919</ele>
+<time>2015-12-14T23:58:15Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570819974" lon="-84.719324946">
+<ele>255.184616</ele>
+<time>2015-12-14T23:58:16Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570824981" lon="-84.719537973">
+<ele>255.020035</ele>
+<time>2015-12-14T23:58:16Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570641160" lon="-84.719640136">
+<ele>256.050415</ele>
+<time>2015-12-14T23:58:17Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570698977" lon="-84.719671607">
+<ele>255.499191</ele>
+<time>2015-12-14T23:58:17Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570542574" lon="-84.719583154">
+<ele>256.535645</ele>
+<time>2015-12-14T23:58:18Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570377111" lon="-84.719538808">
+<ele>256.500000</ele>
+<time>2015-12-14T23:58:18Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570170760" lon="-84.719536662">
+<ele>256.963043</ele>
+<time>2015-12-14T23:58:19Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570093274" lon="-84.719675541">
+<ele>257.292847</ele>
+<time>2015-12-14T23:58:19Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570119858" lon="-84.719889283">
+<ele>256.251221</ele>
+<time>2015-12-14T23:58:20Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570094347" lon="-84.720045805">
+<ele>256.000092</ele>
+<time>2015-12-14T23:58:20Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570146322" lon="-84.720200896">
+<ele>255.992371</ele>
+<time>2015-12-14T23:58:21Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570320964" lon="-84.720190763">
+<ele>255.000000</ele>
+<time>2015-12-14T23:58:22Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570548058" lon="-84.720341921">
+<ele>253.508698</ele>
+<time>2015-12-14T23:58:23Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570776939" lon="-84.720439792">
+<ele>251.601883</ele>
+<time>2015-12-14T23:58:23Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570921421" lon="-84.720502019">
+<ele>250.500702</ele>
+<time>2015-12-14T23:58:24Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571095347" lon="-84.720538735">
+<ele>249.447601</ele>
+<time>2015-12-14T23:58:25Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571318865" lon="-84.720636606">
+<ele>248.001907</ele>
+<time>2015-12-14T23:58:25Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571473479" lon="-84.720806360">
+<ele>246.999298</ele>
+<time>2015-12-14T23:58:26Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571503639" lon="-84.720975399">
+<ele>246.971085</ele>
+<time>2015-12-14T23:58:26Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571534395" lon="-84.721202970">
+<ele>246.484879</ele>
+<time>2015-12-14T23:58:27Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571411371" lon="-84.721109986">
+<ele>247.470245</ele>
+<time>2015-12-14T23:58:28Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571282864" lon="-84.721018434">
+<ele>248.500000</ele>
+<time>2015-12-14T23:58:28Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570976853" lon="-84.720967889">
+<ele>250.511688</ele>
+<time>2015-12-14T23:58:29Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570832014" lon="-84.721087456">
+<ele>251.005737</ele>
+<time>2015-12-14T23:58:29Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570743084" lon="-84.721266270">
+<ele>250.688568</ele>
+<time>2015-12-14T23:58:30Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570691943" lon="-84.721569777">
+<ele>251.356339</ele>
+<time>2015-12-14T23:58:30Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570829749" lon="-84.721580744">
+<ele>250.455811</ele>
+<time>2015-12-14T23:58:31Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570904255" lon="-84.721744776">
+<ele>250.172821</ele>
+<time>2015-12-14T23:58:31Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570989132" lon="-84.722012281">
+<ele>249.498718</ele>
+<time>2015-12-14T23:58:32Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571004987" lon="-84.722277880">
+<ele>248.950882</ele>
+<time>2015-12-14T23:58:32Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570968509" lon="-84.722455382">
+<ele>249.017700</ele>
+<time>2015-12-14T23:58:33Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570829511" lon="-84.722407937">
+<ele>250.457169</ele>
+<time>2015-12-14T23:58:33Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570728183" lon="-84.722312927">
+<ele>251.970703</ele>
+<time>2015-12-14T23:58:34Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570605278" lon="-84.722224355">
+<ele>253.509003</ele>
+<time>2015-12-14T23:58:34Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570491433" lon="-84.722291470">
+<ele>253.719055</ele>
+<time>2015-12-14T23:58:35Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570512891" lon="-84.722383380">
+<ele>252.625565</ele>
+<time>2015-12-14T23:58:35Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570661783" lon="-84.722557425">
+<ele>250.639023</ele>
+<time>2015-12-14T23:58:36Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570690393" lon="-84.722518563">
+<ele>250.760361</ele>
+<time>2015-12-14T23:58:36Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570675015" lon="-84.722687721">
+<ele>249.665176</ele>
+<time>2015-12-14T23:58:37Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570652723" lon="-84.722855568">
+<ele>248.163879</ele>
+<time>2015-12-14T23:58:37Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570497394" lon="-84.722854018">
+<ele>248.810440</ele>
+<time>2015-12-14T23:58:37Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570448279" lon="-84.722944021">
+<ele>248.491714</ele>
+<time>2015-12-14T23:58:38Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570568204" lon="-84.723112106">
+<ele>247.515335</ele>
+<time>2015-12-14T23:58:38Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570732355" lon="-84.723147154">
+<ele>246.428513</ele>
+<time>2015-12-14T23:58:39Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.570871472" lon="-84.723190069">
+<ele>244.963806</ele>
+<time>2015-12-14T23:58:39Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571075678" lon="-84.723337770">
+<ele>242.966354</ele>
+<time>2015-12-14T23:58:40Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571227551" lon="-84.723162413">
+<ele>242.995682</ele>
+<time>2015-12-14T23:58:40Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571339250" lon="-84.723168969">
+<ele>242.499649</ele>
+<time>2015-12-14T23:58:41Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571390033" lon="-84.723025203">
+<ele>242.501526</ele>
+<time>2015-12-14T23:58:45Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571403146" lon="-84.722641349">
+<ele>244.047806</ele>
+<time>2015-12-14T23:58:46Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571473479" lon="-84.722375751">
+<ele>243.501801</ele>
+<time>2015-12-14T23:58:46Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571543932" lon="-84.722049832">
+<ele>243.021164</ele>
+<time>2015-12-14T23:58:47Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571674705" lon="-84.721747994">
+<ele>243.510162</ele>
+<time>2015-12-14T23:58:47Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571805477" lon="-84.721446157">
+<ele>243.500000</ele>
+<time>2015-12-14T23:58:48Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571936131" lon="-84.721144438">
+<ele>243.761902</ele>
+<time>2015-12-14T23:58:48Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572036743" lon="-84.720987439">
+<ele>243.500000</ele>
+<time>2015-12-14T23:58:49Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572036743" lon="-84.720806360">
+<ele>243.500000</ele>
+<time>2015-12-14T23:58:49Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571966410" lon="-84.720540762">
+<ele>243.500580</ele>
+<time>2015-12-14T23:58:50Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571815491" lon="-84.720287323">
+<ele>243.912888</ele>
+<time>2015-12-14T23:58:50Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571667314" lon="-84.719999194">
+<ele>244.502014</ele>
+<time>2015-12-14T23:58:51Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571678162" lon="-84.719824314">
+<ele>244.689133</ele>
+<time>2015-12-14T23:58:52Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571705222" lon="-84.719585538">
+<ele>245.006104</ele>
+<time>2015-12-14T23:58:52Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571694732" lon="-84.719200730">
+<ele>245.915070</ele>
+<time>2015-12-14T23:58:53Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571883321" lon="-84.718799233">
+<ele>244.452179</ele>
+<time>2015-12-14T23:58:54Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571799159" lon="-84.718445063">
+<ele>245.927155</ele>
+<time>2015-12-14T23:58:54Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571654797" lon="-84.718250036">
+<ele>245.982758</ele>
+<time>2015-12-14T23:58:55Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571498036" lon="-84.717991471">
+<ele>245.000000</ele>
+<time>2015-12-14T23:58:56Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571413159" lon="-84.717788339">
+<ele>244.485764</ele>
+<time>2015-12-14T23:58:56Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571455359" lon="-84.717480540">
+<ele>244.000000</ele>
+<time>2015-12-14T23:58:56Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571377397" lon="-84.717286110">
+<ele>243.500000</ele>
+<time>2015-12-14T23:58:57Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571573257" lon="-84.717131495">
+<ele>243.500000</ele>
+<time>2015-12-14T23:58:58Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571759462" lon="-84.717236876">
+<ele>243.500000</ele>
+<time>2015-12-14T23:58:59Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571996570" lon="-84.717389941">
+<ele>244.000000</ele>
+<time>2015-12-14T23:58:59Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572270870" lon="-84.717393756">
+<ele>244.163040</ele>
+<time>2015-12-14T23:59:00Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572501659" lon="-84.717437267">
+<ele>244.000000</ele>
+<time>2015-12-14T23:59:00Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572827220" lon="-84.717415452">
+<ele>243.551712</ele>
+<time>2015-12-14T23:59:01Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573128223" lon="-84.717292666">
+<ele>243.470596</ele>
+<time>2015-12-14T23:59:02Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573307157" lon="-84.717268705">
+<ele>243.500000</ele>
+<time>2015-12-14T23:59:02Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573578000" lon="-84.717000127">
+<ele>243.500000</ele>
+<time>2015-12-14T23:59:03Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573756099" lon="-84.716843128">
+<ele>242.981232</ele>
+<time>2015-12-14T23:59:04Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573969126" lon="-84.716752768">
+<ele>242.698212</ele>
+<time>2015-12-14T23:59:04Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574134946" lon="-84.716633558">
+<ele>242.500000</ele>
+<time>2015-12-14T23:59:05Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574169159" lon="-84.716701865">
+<ele>242.594772</ele>
+<time>2015-12-14T23:59:05Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574365854" lon="-84.716607928">
+<ele>243.000000</ele>
+<time>2015-12-14T23:59:06Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574617505" lon="-84.716770053">
+<ele>242.493637</ele>
+<time>2015-12-14T23:59:06Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574847698" lon="-84.716986299">
+<ele>240.500565</ele>
+<time>2015-12-14T23:59:07Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574928403" lon="-84.716992736">
+<ele>239.982407</ele>
+<time>2015-12-14T23:59:08Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574949861" lon="-84.717213631">
+<ele>239.502640</ele>
+<time>2015-12-14T23:59:08Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574784875" lon="-84.717361569">
+<ele>240.030411</ele>
+<time>2015-12-14T23:59:09Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574589372" lon="-84.717366219">
+<ele>241.008301</ele>
+<time>2015-12-14T23:59:10Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574296832" lon="-84.717486143">
+<ele>241.521194</ele>
+<time>2015-12-14T23:59:10Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574078560" lon="-84.717776299">
+<ele>241.000000</ele>
+<time>2015-12-14T23:59:11Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573846102" lon="-84.717812538">
+<ele>241.500931</ele>
+<time>2015-12-14T23:59:12Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573574066" lon="-84.717990637">
+<ele>242.012283</ele>
+<time>2015-12-14T23:59:13Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573299289" lon="-84.718127251">
+<ele>241.969315</ele>
+<time>2015-12-14T23:59:13Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573055029" lon="-84.718264937">
+<ele>242.537766</ele>
+<time>2015-12-14T23:59:14Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572803497" lon="-84.718423009">
+<ele>242.499985</ele>
+<time>2015-12-14T23:59:14Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572670460" lon="-84.718705773">
+<ele>242.500000</ele>
+<time>2015-12-14T23:59:15Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572499394" lon="-84.719140410">
+<ele>242.500000</ele>
+<time>2015-12-14T23:59:16Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572386742" lon="-84.719638348">
+<ele>242.500000</ele>
+<time>2015-12-14T23:59:17Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572366953" lon="-84.720079780">
+<ele>242.500000</ele>
+<time>2015-12-14T23:59:17Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572268128" lon="-84.720685601">
+<ele>242.480637</ele>
+<time>2015-12-14T23:59:18Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572268128" lon="-84.721132278">
+<ele>243.017349</ele>
+<time>2015-12-14T23:59:18Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572127342" lon="-84.721747994">
+<ele>242.500000</ele>
+<time>2015-12-14T23:59:19Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571933866" lon="-84.722107887">
+<ele>241.974411</ele>
+<time>2015-12-14T23:59:20Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571795344" lon="-84.722498894">
+<ele>242.000000</ele>
+<time>2015-12-14T23:59:21Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571530223" lon="-84.722598672">
+<ele>243.013199</ele>
+<time>2015-12-14T23:59:23Z</time>
+<fix>3d</fix>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>Trk 003</name>
+<src>DeLorme Topo USA® 7.0</src>
+<trkseg>
+<trkpt lat="33.571447015" lon="-84.723126531">
+<ele>242.530396</ele>
+<time>2015-12-14T23:59:33Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571616411" lon="-84.723267794">
+<ele>242.000000</ele>
+<time>2015-12-14T23:59:34Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.571780443" lon="-84.723259568">
+<ele>241.841690</ele>
+<time>2015-12-14T23:59:34Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572006464" lon="-84.723366857">
+<ele>241.954285</ele>
+<time>2015-12-14T23:59:35Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572227836" lon="-84.723497868">
+<ele>243.832031</ele>
+<time>2015-12-14T23:59:35Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572332025" lon="-84.723541856">
+<ele>244.501053</ele>
+<time>2015-12-14T23:59:36Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572551966" lon="-84.723410010">
+<ele>245.074509</ele>
+<time>2015-12-14T23:59:36Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572962999" lon="-84.723295927">
+<ele>245.996155</ele>
+<time>2015-12-14T23:59:37Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573169947" lon="-84.723167896">
+<ele>245.446793</ele>
+<time>2015-12-14T23:59:37Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573297381" lon="-84.722953558">
+<ele>244.470123</ele>
+<time>2015-12-14T23:59:38Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573392987" lon="-84.722745657">
+<ele>243.514343</ele>
+<time>2015-12-14T23:59:38Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573633075" lon="-84.722425699">
+<ele>243.000000</ele>
+<time>2015-12-14T23:59:39Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573922396" lon="-84.722304940">
+<ele>242.855972</ele>
+<time>2015-12-14T23:59:39Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574222445" lon="-84.722620368">
+<ele>240.688248</ele>
+<time>2015-12-14T23:59:41Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574416757" lon="-84.722788095">
+<ele>241.397339</ele>
+<time>2015-12-14T23:59:41Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574679494" lon="-84.723009229">
+<ele>241.000000</ele>
+<time>2015-12-14T23:59:42Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574813962" lon="-84.723224044">
+<ele>241.485092</ele>
+<time>2015-12-14T23:59:42Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575074315" lon="-84.723365664">
+<ele>241.496002</ele>
+<time>2015-12-14T23:59:43Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575173020" lon="-84.723484278">
+<ele>240.974579</ele>
+<time>2015-12-14T23:59:43Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575310826" lon="-84.723746657">
+<ele>239.849457</ele>
+<time>2015-12-14T23:59:44Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575177431" lon="-84.724022746">
+<ele>240.537003</ele>
+<time>2015-12-14T23:59:44Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574972749" lon="-84.724238515">
+<ele>242.000000</ele>
+<time>2015-12-14T23:59:45Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574712276" lon="-84.724367738">
+<ele>242.500000</ele>
+<time>2015-12-14T23:59:45Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574783564" lon="-84.724687099">
+<ele>242.005096</ele>
+<time>2015-12-14T23:59:46Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574980974" lon="-84.724958539">
+<ele>241.420456</ele>
+<time>2015-12-14T23:59:46Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575163007" lon="-84.724829793">
+<ele>240.000000</ele>
+<time>2015-12-14T23:59:47Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575345397" lon="-84.724817276">
+<ele>239.000000</ele>
+<time>2015-12-14T23:59:48Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575402260" lon="-84.725072980">
+<ele>238.454346</ele>
+<time>2015-12-14T23:59:48Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575527549" lon="-84.725304842">
+<ele>238.869278</ele>
+<time>2015-12-14T23:59:49Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575740099" lon="-84.725626945">
+<ele>238.604813</ele>
+<time>2015-12-14T23:59:50Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.576030135" lon="-84.725850821">
+<ele>239.698212</ele>
+<time>2015-12-14T23:59:51Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.576458693" lon="-84.726030469">
+<ele>239.987701</ele>
+<time>2015-12-14T23:59:52Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.576643109" lon="-84.726244569">
+<ele>240.808594</ele>
+<time>2015-12-14T23:59:52Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.576919556" lon="-84.726449609">
+<ele>240.498047</ele>
+<time>2015-12-14T23:59:53Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577296615" lon="-84.726738214">
+<ele>242.017349</ele>
+<time>2015-12-14T23:59:57Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577592731" lon="-84.726774573">
+<ele>241.982971</ele>
+<time>2015-12-14T23:59:57Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577898979" lon="-84.726835370">
+<ele>241.967682</ele>
+<time>2015-12-14T23:59:58Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.578232765" lon="-84.726856828">
+<ele>243.466980</ele>
+<time>2015-12-14T23:59:59Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.578462481" lon="-84.726866364">
+<ele>244.929626</ele>
+<time>2015-12-14T23:59:59Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.578856230" lon="-84.726553082">
+<ele>246.413681</ele>
+<time>2015-12-15T00:00:00Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.579097629" lon="-84.726359844">
+<ele>246.310074</ele>
+<time>2015-12-15T00:00:01Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.579428077" lon="-84.726203561">
+<ele>246.760712</ele>
+<time>2015-12-15T00:00:02Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.579681039" lon="-84.725901127">
+<ele>244.705414</ele>
+<time>2015-12-15T00:00:02Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.579801202" lon="-84.725737572">
+<ele>242.900208</ele>
+<time>2015-12-15T00:00:08Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.579652071" lon="-84.725747824">
+<ele>242.094223</ele>
+<time>2015-12-15T00:00:09Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.579298854" lon="-84.725683808">
+<ele>239.764801</ele>
+<time>2015-12-15T00:00:10Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.579053164" lon="-84.725610137">
+<ele>238.394440</ele>
+<time>2015-12-15T00:00:10Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.578813791" lon="-84.725501895">
+<ele>238.036453</ele>
+<time>2015-12-15T00:00:11Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.578669190" lon="-84.725427389">
+<ele>237.465973</ele>
+<time>2015-12-15T00:00:12Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.578472972" lon="-84.725194931">
+<ele>237.000000</ele>
+<time>2015-12-15T00:00:12Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.578290582" lon="-84.724844098">
+<ele>237.000000</ele>
+<time>2015-12-15T00:00:13Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.578091860" lon="-84.724597216">
+<ele>236.500000</ele>
+<time>2015-12-15T00:00:13Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577925086" lon="-84.724248648">
+<ele>236.500000</ele>
+<time>2015-12-15T00:00:14Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577685356" lon="-84.723972321">
+<ele>236.997467</ele>
+<time>2015-12-15T00:00:15Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577719688" lon="-84.723631382">
+<ele>237.499344</ele>
+<time>2015-12-15T00:00:15Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577800155" lon="-84.723281264">
+<ele>238.000000</ele>
+<time>2015-12-15T00:00:16Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577810168" lon="-84.722894907">
+<ele>238.150238</ele>
+<time>2015-12-15T00:00:16Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577920914" lon="-84.722546220">
+<ele>240.495850</ele>
+<time>2015-12-15T00:00:17Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577850461" lon="-84.722061872">
+<ele>237.995773</ele>
+<time>2015-12-15T00:00:17Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577918053" lon="-84.721703887">
+<ele>237.746338</ele>
+<time>2015-12-15T00:00:18Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577669382" lon="-84.721434116">
+<ele>237.500000</ele>
+<time>2015-12-15T00:00:19Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577392817" lon="-84.721345067">
+<ele>237.500000</ele>
+<time>2015-12-15T00:00:19Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.577116251" lon="-84.721385837">
+<ele>237.500000</ele>
+<time>2015-12-15T00:00:20Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.576854706" lon="-84.721204758">
+<ele>238.006012</ele>
+<time>2015-12-15T00:00:21Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.576648235" lon="-84.721126080">
+<ele>237.884872</ele>
+<time>2015-12-15T00:00:21Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.576467752" lon="-84.720789313">
+<ele>237.500000</ele>
+<time>2015-12-15T00:00:22Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.576164603" lon="-84.720640063">
+<ele>238.036972</ele>
+<time>2015-12-15T00:00:22Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575929284" lon="-84.720492482">
+<ele>238.000992</ele>
+<time>2015-12-15T00:00:23Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575778484" lon="-84.720420003">
+<ele>238.000000</ele>
+<time>2015-12-15T00:00:23Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575627446" lon="-84.720348477">
+<ele>238.032227</ele>
+<time>2015-12-15T00:00:24Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575396895" lon="-84.720517635">
+<ele>238.050247</ele>
+<time>2015-12-15T00:00:27Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.575074315" lon="-84.720601201">
+<ele>238.005341</ele>
+<time>2015-12-15T00:00:27Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574752450" lon="-84.720806479">
+<ele>238.003128</ele>
+<time>2015-12-15T00:00:28Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574661970" lon="-84.721023798">
+<ele>238.486526</ele>
+<time>2015-12-15T00:00:28Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574416161" lon="-84.720968008">
+<ele>238.500000</ele>
+<time>2015-12-15T00:00:29Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574380398" lon="-84.721035838">
+<ele>238.585693</ele>
+<time>2015-12-15T00:00:29Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.574054241" lon="-84.721074700">
+<ele>239.000000</ele>
+<time>2015-12-15T00:00:30Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573812246" lon="-84.721103668">
+<ele>239.498215</ele>
+<time>2015-12-15T00:00:30Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573564410" lon="-84.720994115">
+<ele>240.022476</ele>
+<time>2015-12-15T00:00:31Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573348165" lon="-84.720970631">
+<ele>241.006454</ele>
+<time>2015-12-15T00:00:32Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.573064208" lon="-84.720964789">
+<ele>241.528503</ele>
+<time>2015-12-15T00:00:32Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572767973" lon="-84.720960855">
+<ele>241.500000</ele>
+<time>2015-12-15T00:00:33Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572647691" lon="-84.720972896">
+<ele>241.500854</ele>
+<time>2015-12-15T00:00:33Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.572355509" lon="-84.720869064">
+<ele>242.500000</ele>
+<time>2015-12-15T00:00:34Z</time>
+<fix>3d</fix>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>Trk 004</name>
+<src>DeLorme Topo USA® 7.0</src>
+<trkseg>
+<trkpt lat="33.579681039" lon="-84.725901127">
+<ele>244.705414</ele>
+<time>2015-12-15T00:00:46Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.579878330" lon="-84.725693941">
+<ele>242.699646</ele>
+<time>2015-12-15T00:00:46Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580071211" lon="-84.725451589">
+<ele>239.556946</ele>
+<time>2015-12-15T00:00:47Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580325007" lon="-84.725308299">
+<ele>239.723846</ele>
+<time>2015-12-15T00:00:47Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580640912" lon="-84.725142241">
+<ele>240.103867</ele>
+<time>2015-12-15T00:00:48Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580867887" lon="-84.725116253">
+<ele>240.020996</ele>
+<time>2015-12-15T00:00:48Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581169724" lon="-84.724995494">
+<ele>237.720108</ele>
+<time>2015-12-15T00:00:49Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581454158" lon="-84.724995375">
+<ele>235.966415</ele>
+<time>2015-12-15T00:00:49Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581390977" lon="-84.725123286">
+<ele>236.898438</ele>
+<time>2015-12-15T00:00:50Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581242919" lon="-84.725539684">
+<ele>236.963028</ele>
+<time>2015-12-15T00:00:50Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581033945" lon="-84.725840926">
+<ele>238.490768</ele>
+<time>2015-12-15T00:00:51Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580834627" lon="-84.726431370">
+<ele>237.870224</ele>
+<time>2015-12-15T00:00:51Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580514193" lon="-84.726769328">
+<ele>238.559189</ele>
+<time>2015-12-15T00:00:52Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580556154" lon="-84.726830602">
+<ele>237.763260</ele>
+<time>2015-12-15T00:00:52Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580485106" lon="-84.727292418">
+<ele>236.490814</ele>
+<time>2015-12-15T00:00:52Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580429792" lon="-84.727774858">
+<ele>236.456940</ele>
+<time>2015-12-15T00:00:53Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580485702" lon="-84.727820635">
+<ele>236.000961</ele>
+<time>2015-12-15T00:00:53Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580360889" lon="-84.728148341">
+<ele>235.999069</ele>
+<time>2015-12-15T00:00:53Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580255032" lon="-84.728549957">
+<ele>236.011078</ele>
+<time>2015-12-15T00:00:54Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580287576" lon="-84.728815198">
+<ele>237.200989</ele>
+<time>2015-12-15T00:00:54Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580628395" lon="-84.728669763">
+<ele>237.994400</ele>
+<time>2015-12-15T00:01:03Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580817699" lon="-84.728581309">
+<ele>238.544815</ele>
+<time>2015-12-15T00:01:03Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581069112" lon="-84.728533030">
+<ele>239.962326</ele>
+<time>2015-12-15T00:01:04Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581243515" lon="-84.728301644">
+<ele>239.916443</ele>
+<time>2015-12-15T00:01:04Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581393123" lon="-84.727980494">
+<ele>239.526215</ele>
+<time>2015-12-15T00:01:05Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581482291" lon="-84.727683783">
+<ele>238.278839</ele>
+<time>2015-12-15T00:01:06Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581575751" lon="-84.727599144">
+<ele>238.051041</ele>
+<time>2015-12-15T00:01:06Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581760645" lon="-84.727461576">
+<ele>237.475006</ele>
+<time>2015-12-15T00:01:07Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582035661" lon="-84.727352142">
+<ele>236.173065</ele>
+<time>2015-12-15T00:01:08Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582386374" lon="-84.727399826">
+<ele>235.756821</ele>
+<time>2015-12-15T00:01:09Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582501054" lon="-84.727412224">
+<ele>235.476669</ele>
+<time>2015-12-15T00:01:09Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582651258" lon="-84.727615237">
+<ele>236.768799</ele>
+<time>2015-12-15T00:01:10Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582773685" lon="-84.727875471">
+<ele>236.522049</ele>
+<time>2015-12-15T00:01:10Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582805157" lon="-84.728152514">
+<ele>235.944839</ele>
+<time>2015-12-15T00:01:11Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582801580" lon="-84.728438616">
+<ele>236.466751</ele>
+<time>2015-12-15T00:01:11Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582841516" lon="-84.728525996">
+<ele>236.524521</ele>
+<time>2015-12-15T00:01:12Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583050966" lon="-84.728565216">
+<ele>235.357254</ele>
+<time>2015-12-15T00:01:13Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583318353" lon="-84.728484750">
+<ele>234.429565</ele>
+<time>2015-12-15T00:01:14Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583591461" lon="-84.728474855">
+<ele>234.239044</ele>
+<time>2015-12-15T00:01:21Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583761096" lon="-84.728795886">
+<ele>235.545868</ele>
+<time>2015-12-15T00:01:21Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583896875" lon="-84.728967547">
+<ele>235.491074</ele>
+<time>2015-12-15T00:01:22Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584021926" lon="-84.729233265">
+<ele>236.056473</ele>
+<time>2015-12-15T00:01:22Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584146261" lon="-84.729408026">
+<ele>236.034378</ele>
+<time>2015-12-15T00:01:23Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584347486" lon="-84.729664207">
+<ele>236.101425</ele>
+<time>2015-12-15T00:01:24Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584510922" lon="-84.729891777">
+<ele>236.562500</ele>
+<time>2015-12-15T00:01:24Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584609628" lon="-84.730163097">
+<ele>236.476410</ele>
+<time>2015-12-15T00:01:25Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584669709" lon="-84.730306149">
+<ele>235.983597</ele>
+<time>2015-12-15T00:01:26Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584738851" lon="-84.730544925">
+<ele>235.457184</ele>
+<time>2015-12-15T00:01:26Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584951639" lon="-84.730911613">
+<ele>234.629166</ele>
+<time>2015-12-15T00:01:27Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.585128188" lon="-84.731334925">
+<ele>237.078735</ele>
+<time>2015-12-15T00:01:27Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.585292697" lon="-84.731382251">
+<ele>237.991302</ele>
+<time>2015-12-15T00:01:28Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.585555077" lon="-84.731249690">
+<ele>238.694290</ele>
+<time>2015-12-15T00:01:29Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.585777521" lon="-84.730974197">
+<ele>238.371582</ele>
+<time>2015-12-15T00:01:29Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586021423" lon="-84.730725765">
+<ele>239.015182</ele>
+<time>2015-12-15T00:01:30Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586163998" lon="-84.730422497">
+<ele>238.966324</ele>
+<time>2015-12-15T00:01:30Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586306572" lon="-84.729989290">
+<ele>237.641754</ele>
+<time>2015-12-15T00:01:31Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586434841" lon="-84.729768634">
+<ele>236.876770</ele>
+<time>2015-12-15T00:01:32Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586597443" lon="-84.729595184">
+<ele>235.836029</ele>
+<time>2015-12-15T00:01:32Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586776376" lon="-84.729450226">
+<ele>234.529968</ele>
+<time>2015-12-15T00:01:33Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586900115" lon="-84.729521513">
+<ele>234.987640</ele>
+<time>2015-12-15T00:01:34Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587032795" lon="-84.729742289">
+<ele>236.031067</ele>
+<time>2015-12-15T00:01:34Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587115765" lon="-84.729932904">
+<ele>237.268890</ele>
+<time>2015-12-15T00:01:35Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587032795" lon="-84.730222464">
+<ele>241.593521</ele>
+<time>2015-12-15T00:01:35Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586922646" lon="-84.730332732">
+<ele>243.940491</ele>
+<time>2015-12-15T00:01:36Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586961627" lon="-84.730502725">
+<ele>245.406952</ele>
+<time>2015-12-15T00:01:37Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587072015" lon="-84.730682254">
+<ele>246.999298</ele>
+<time>2015-12-15T00:01:37Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587292552" lon="-84.730505228">
+<ele>242.881256</ele>
+<time>2015-12-15T00:01:38Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587339640" lon="-84.730436325">
+<ele>241.460968</ele>
+<time>2015-12-15T00:01:39Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587412834" lon="-84.730412841">
+<ele>240.242508</ele>
+<time>2015-12-15T00:01:43Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587616920" lon="-84.730400562">
+<ele>238.419830</ele>
+<time>2015-12-15T00:01:43Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587760568" lon="-84.730494738">
+<ele>239.315308</ele>
+<time>2015-12-15T00:01:45Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587892175" lon="-84.730650663">
+<ele>240.116791</ele>
+<time>2015-12-15T00:01:47Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.588059664" lon="-84.730658174">
+<ele>238.235718</ele>
+<time>2015-12-15T00:01:47Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.588220596" lon="-84.730742693">
+<ele>236.252777</ele>
+<time>2015-12-15T00:01:48Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.588391542" lon="-84.730911732">
+<ele>234.238022</ele>
+<time>2015-12-15T00:01:49Z</time>
+<fix>3d</fix>
+</trkpt>
+</trkseg>
+</trk>
+<trk>
+<name>Trk 005</name>
+<src>DeLorme Topo USA® 7.0</src>
+<trkseg>
+<trkpt lat="33.587893724" lon="-84.730700731">
+<ele>240.795975</ele>
+<time>2015-12-15T00:01:51Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587991357" lon="-84.730821967">
+<ele>241.680115</ele>
+<time>2015-12-15T00:01:53Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.588051677" lon="-84.731006026">
+<ele>243.240326</ele>
+<time>2015-12-15T00:01:53Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.588177681" lon="-84.731145978">
+<ele>241.363907</ele>
+<time>2015-12-15T00:01:54Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.588226557" lon="-84.731425881">
+<ele>242.320328</ele>
+<time>2015-12-15T00:01:55Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.588303447" lon="-84.731763363">
+<ele>243.456940</ele>
+<time>2015-12-15T00:01:56Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.588373899" lon="-84.732096195">
+<ele>244.646057</ele>
+<time>2015-12-15T00:01:56Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.588351965" lon="-84.732410192">
+<ele>246.193710</ele>
+<time>2015-12-15T00:01:57Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.588151932" lon="-84.732570767">
+<ele>249.331482</ele>
+<time>2015-12-15T00:01:58Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587909102" lon="-84.732776642">
+<ele>247.716263</ele>
+<time>2015-12-15T00:01:58Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587707043" lon="-84.732845187">
+<ele>247.102783</ele>
+<time>2015-12-15T00:01:59Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587600589" lon="-84.732827187">
+<ele>247.681000</ele>
+<time>2015-12-15T00:01:59Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587300658" lon="-84.733033895">
+<ele>244.187119</ele>
+<time>2015-12-15T00:02:00Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587183237" lon="-84.733136892">
+<ele>242.272385</ele>
+<time>2015-12-15T00:02:01Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587021351" lon="-84.733145595">
+<ele>242.290344</ele>
+<time>2015-12-15T00:02:01Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586828709" lon="-84.733235359">
+<ele>241.011108</ele>
+<time>2015-12-15T00:02:02Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586610198" lon="-84.733264565">
+<ele>240.392014</ele>
+<time>2015-12-15T00:02:03Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586503386" lon="-84.733238220">
+<ele>240.910156</ele>
+<time>2015-12-15T00:02:03Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586386323" lon="-84.733173966">
+<ele>242.441666</ele>
+<time>2015-12-15T00:02:04Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586536288" lon="-84.733059049">
+<ele>244.750793</ele>
+<time>2015-12-15T00:02:04Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586799264" lon="-84.733096123">
+<ele>243.896286</ele>
+<time>2015-12-15T00:02:05Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586576581" lon="-84.732962132">
+<ele>246.877777</ele>
+<time>2015-12-15T00:02:05Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586536288" lon="-84.733059049">
+<ele>244.750793</ele>
+<time>2015-12-15T00:02:06Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586403131" lon="-84.732962966">
+<ele>246.858337</ele>
+<time>2015-12-15T00:02:06Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586189508" lon="-84.732979178">
+<ele>245.947723</ele>
+<time>2015-12-15T00:02:07Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586039543" lon="-84.733013868">
+<ele>245.180740</ele>
+<time>2015-12-15T00:02:08Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586104035" lon="-84.732868910">
+<ele>248.002411</ele>
+<time>2015-12-15T00:02:08Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586339593" lon="-84.732745767">
+<ele>250.955383</ele>
+<time>2015-12-15T00:02:09Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586450577" lon="-84.732743144">
+<ele>251.499939</ele>
+<time>2015-12-15T00:02:09Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586673975" lon="-84.732790470">
+<ele>250.901321</ele>
+<time>2015-12-15T00:02:10Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586894393" lon="-84.732755423">
+<ele>251.268555</ele>
+<time>2015-12-15T00:02:10Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587062955" lon="-84.732754230">
+<ele>250.795380</ele>
+<time>2015-12-15T00:02:11Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587209105" lon="-84.732593417">
+<ele>253.902618</ele>
+<time>2015-12-15T00:02:11Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587436676" lon="-84.732457161">
+<ele>255.805679</ele>
+<time>2015-12-15T00:02:12Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587631226" lon="-84.732404828">
+<ele>256.461334</ele>
+<time>2015-12-15T00:02:12Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587849140" lon="-84.732346892">
+<ele>257.118286</ele>
+<time>2015-12-15T00:02:13Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.588009357" lon="-84.732070923">
+<ele>255.421875</ele>
+<time>2015-12-15T00:02:13Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.588035226" lon="-84.731889725">
+<ele>254.075623</ele>
+<time>2015-12-15T00:02:14Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.588035345" lon="-84.731687546">
+<ele>252.804779</ele>
+<time>2015-12-15T00:02:14Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587969422" lon="-84.731477141">
+<ele>252.890793</ele>
+<time>2015-12-15T00:02:15Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587928891" lon="-84.731153250">
+<ele>249.010300</ele>
+<time>2015-12-15T00:02:15Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587784886" lon="-84.731117845">
+<ele>251.146851</ele>
+<time>2015-12-15T00:02:16Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587748766" lon="-84.731362343">
+<ele>256.148315</ele>
+<time>2015-12-15T00:02:16Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587586522" lon="-84.731461525">
+<ele>259.077423</ele>
+<time>2015-12-15T00:02:17Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587385654" lon="-84.731455088">
+<ele>259.525513</ele>
+<time>2015-12-15T00:02:17Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587104559" lon="-84.731473804">
+<ele>258.136078</ele>
+<time>2015-12-15T00:02:18Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586889982" lon="-84.731636286">
+<ele>258.323181</ele>
+<time>2015-12-15T00:02:18Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586777091" lon="-84.731894732">
+<ele>259.195862</ele>
+<time>2015-12-15T00:02:19Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586868763" lon="-84.732067585">
+<ele>260.698181</ele>
+<time>2015-12-15T00:02:19Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.587015629" lon="-84.732257366">
+<ele>260.149994</ele>
+<time>2015-12-15T00:02:20Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586866260" lon="-84.732356548">
+<ele>258.494415</ele>
+<time>2015-12-15T00:02:21Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586789608" lon="-84.732502460">
+<ele>256.599640</ele>
+<time>2015-12-15T00:02:21Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586632133" lon="-84.732360721">
+<ele>257.725830</ele>
+<time>2015-12-15T00:02:22Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586426854" lon="-84.732412338">
+<ele>255.868698</ele>
+<time>2015-12-15T00:02:22Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586237073" lon="-84.732456446">
+<ele>253.539886</ele>
+<time>2015-12-15T00:02:23Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586229563" lon="-84.732113361">
+<ele>252.553467</ele>
+<time>2015-12-15T00:02:23Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586246371" lon="-84.731886625">
+<ele>251.740738</ele>
+<time>2015-12-15T00:02:24Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586294293" lon="-84.731596947">
+<ele>250.519165</ele>
+<time>2015-12-15T00:02:24Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586335659" lon="-84.731449008">
+<ele>249.791122</ele>
+<time>2015-12-15T00:02:25Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586408257" lon="-84.731305122">
+<ele>249.509216</ele>
+<time>2015-12-15T00:02:25Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586481690" lon="-84.731163859">
+<ele>249.322220</ele>
+<time>2015-12-15T00:02:26Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586559892" lon="-84.731034636">
+<ele>249.520691</ele>
+<time>2015-12-15T00:02:26Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586658359" lon="-84.730747223">
+<ele>247.737167</ele>
+<time>2015-12-15T00:02:27Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586541414" lon="-84.730734348">
+<ele>246.700241</ele>
+<time>2015-12-15T00:02:28Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586398840" lon="-84.730871558">
+<ele>246.212570</ele>
+<time>2015-12-15T00:02:28Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586156249" lon="-84.731031537">
+<ele>243.675964</ele>
+<time>2015-12-15T00:02:29Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.586004496" lon="-84.731321692">
+<ele>243.995117</ele>
+<time>2015-12-15T00:02:29Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.585946321" lon="-84.731557488">
+<ele>244.864349</ele>
+<time>2015-12-15T00:02:30Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.585814595" lon="-84.731714606">
+<ele>244.533707</ele>
+<time>2015-12-15T00:02:30Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.585610747" lon="-84.731777310">
+<ele>242.732574</ele>
+<time>2015-12-15T00:02:31Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.585485816" lon="-84.731841207">
+<ele>242.018188</ele>
+<time>2015-12-15T00:02:31Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.585341573" lon="-84.731953859">
+<ele>240.971100</ele>
+<time>2015-12-15T00:02:35Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.585155249" lon="-84.732008100">
+<ele>240.500748</ele>
+<time>2015-12-15T00:02:36Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584927201" lon="-84.732067585">
+<ele>239.989807</ele>
+<time>2015-12-15T00:02:36Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584726334" lon="-84.732080579">
+<ele>240.635315</ele>
+<time>2015-12-15T00:02:37Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584696770" lon="-84.731860757">
+<ele>240.380386</ele>
+<time>2015-12-15T00:02:38Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584585786" lon="-84.731602907">
+<ele>240.437256</ele>
+<time>2015-12-15T00:02:38Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584442377" lon="-84.731397629">
+<ele>241.715775</ele>
+<time>2015-12-15T00:02:39Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584396839" lon="-84.731197119">
+<ele>241.982574</ele>
+<time>2015-12-15T00:02:39Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584304094" lon="-84.730984569">
+<ele>243.994446</ele>
+<time>2015-12-15T00:02:40Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584291577" lon="-84.730856180">
+<ele>244.285324</ele>
+<time>2015-12-15T00:02:40Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584368706" lon="-84.730561972">
+<ele>241.567612</ele>
+<time>2015-12-15T00:02:41Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584397435" lon="-84.730309010">
+<ele>240.431458</ele>
+<time>2015-12-15T00:02:41Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584297776" lon="-84.729994059">
+<ele>240.094513</ele>
+<time>2015-12-15T00:02:43Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.584076762" lon="-84.729753137">
+<ele>241.286835</ele>
+<time>2015-12-15T00:02:44Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583949924" lon="-84.729648590">
+<ele>241.694107</ele>
+<time>2015-12-15T00:02:44Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583781362" lon="-84.729567289">
+<ele>243.686142</ele>
+<time>2015-12-15T00:02:45Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583765268" lon="-84.729248524">
+<ele>239.309998</ele>
+<time>2015-12-15T00:02:45Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583644032" lon="-84.728991866">
+<ele>237.679276</ele>
+<time>2015-12-15T00:02:46Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583452940" lon="-84.728943586">
+<ele>239.141846</ele>
+<time>2015-12-15T00:02:47Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583150029" lon="-84.728959084">
+<ele>241.899902</ele>
+<time>2015-12-15T00:02:47Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582940936" lon="-84.728866458">
+<ele>240.195007</ele>
+<time>2015-12-15T00:02:48Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582823277" lon="-84.728901863">
+<ele>241.511108</ele>
+<time>2015-12-15T00:02:48Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582576275" lon="-84.728947163">
+<ele>245.248322</ele>
+<time>2015-12-15T00:02:49Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582416892" lon="-84.728895307">
+<ele>246.167496</ele>
+<time>2015-12-15T00:02:50Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582316279" lon="-84.728822827">
+<ele>246.721420</ele>
+<time>2015-12-15T00:02:50Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582392693" lon="-84.728635788">
+<ele>244.502319</ele>
+<time>2015-12-15T00:02:51Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582464814" lon="-84.728428483">
+<ele>243.413681</ele>
+<time>2015-12-15T00:02:51Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582578897" lon="-84.728289604">
+<ele>240.694443</ele>
+<time>2015-12-15T00:02:52Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582505465" lon="-84.728104234">
+<ele>242.408356</ele>
+<time>2015-12-15T00:02:52Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582448363" lon="-84.728008389">
+<ele>242.618393</ele>
+<time>2015-12-15T00:02:53Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582371712" lon="-84.728002667">
+<ele>243.823059</ele>
+<time>2015-12-15T00:02:53Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582296252" lon="-84.728158832">
+<ele>245.825638</ele>
+<time>2015-12-15T00:02:54Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582286119" lon="-84.728376150">
+<ele>246.508865</ele>
+<time>2015-12-15T00:02:54Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582286119" lon="-84.728496909">
+<ele>246.508881</ele>
+<time>2015-12-15T00:02:55Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582300544" lon="-84.728600621">
+<ele>246.164536</ele>
+<time>2015-12-15T00:02:55Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582165718" lon="-84.728744507">
+<ele>248.328705</ele>
+<time>2015-12-15T00:02:56Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582093477" lon="-84.728904605">
+<ele>249.491714</ele>
+<time>2015-12-15T00:02:57Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582089305" lon="-84.729193449">
+<ele>252.150665</ele>
+<time>2015-12-15T00:02:58Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582158923" lon="-84.729290724">
+<ele>253.616653</ele>
+<time>2015-12-15T00:02:58Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582302094" lon="-84.729306102">
+<ele>253.459412</ele>
+<time>2015-12-15T00:02:59Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582422256" lon="-84.729259014">
+<ele>252.239746</ele>
+<time>2015-12-15T00:02:59Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582609534" lon="-84.729311347">
+<ele>252.529099</ele>
+<time>2015-12-15T00:03:00Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582856536" lon="-84.729304552">
+<ele>250.950394</ele>
+<time>2015-12-15T00:03:00Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583053231" lon="-84.729234457">
+<ele>248.261108</ele>
+<time>2015-12-15T00:03:01Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583141088" lon="-84.729257584">
+<ele>248.300003</ele>
+<time>2015-12-15T00:03:01Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583281040" lon="-84.729205370">
+<ele>246.001816</ele>
+<time>2015-12-15T00:03:01Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583456039" lon="-84.729253531">
+<ele>244.071838</ele>
+<time>2015-12-15T00:03:01Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583462715" lon="-84.729375243">
+<ele>246.326752</ele>
+<time>2015-12-15T00:03:02Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583379626" lon="-84.729475498">
+<ele>249.916611</ele>
+<time>2015-12-15T00:03:02Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583402038" lon="-84.729656339">
+<ele>252.569672</ele>
+<time>2015-12-15T00:03:03Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583531141" lon="-84.729804873">
+<ele>252.773849</ele>
+<time>2015-12-15T00:03:03Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583614469" lon="-84.729911089">
+<ele>253.085190</ele>
+<time>2015-12-15T00:03:04Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583690047" lon="-84.730131745">
+<ele>255.385666</ele>
+<time>2015-12-15T00:03:04Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583688378" lon="-84.730438590">
+<ele>258.378662</ele>
+<time>2015-12-15T00:03:05Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583623409" lon="-84.730242014">
+<ele>258.225006</ele>
+<time>2015-12-15T00:03:05Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583411217" lon="-84.730036259">
+<ele>259.445709</ele>
+<time>2015-12-15T00:03:06Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583251357" lon="-84.729952931">
+<ele>261.012756</ele>
+<time>2015-12-15T00:03:06Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583221555" lon="-84.729873300">
+<ele>259.799561</ele>
+<time>2015-12-15T00:03:07Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.583042502" lon="-84.729598284">
+<ele>256.714844</ele>
+<time>2015-12-15T00:03:07Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582843184" lon="-84.729656458">
+<ele>260.071259</ele>
+<time>2015-12-15T00:03:07Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582628131" lon="-84.729631782">
+<ele>260.084290</ele>
+<time>2015-12-15T00:03:08Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582474589" lon="-84.729818344">
+<ele>263.912140</ele>
+<time>2015-12-15T00:03:08Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.582266092" lon="-84.729776740">
+<ele>262.930847</ele>
+<time>2015-12-15T00:03:09Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581997752" lon="-84.729795218">
+<ele>262.528046</ele>
+<time>2015-12-15T00:03:10Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581844807" lon="-84.729858518">
+<ele>262.380402</ele>
+<time>2015-12-15T00:03:10Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581787467" lon="-84.729843855">
+<ele>261.692108</ele>
+<time>2015-12-15T00:03:11Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581617951" lon="-84.730032086">
+<ele>262.855927</ele>
+<time>2015-12-15T00:03:12Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581452966" lon="-84.730205655">
+<ele>262.969269</ele>
+<time>2015-12-15T00:03:16Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581389546" lon="-84.730193496">
+<ele>262.367188</ele>
+<time>2015-12-15T00:03:17Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581435800" lon="-84.730024934">
+<ele>261.071991</ele>
+<time>2015-12-15T00:03:17Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581535697" lon="-84.729852796">
+<ele>260.333252</ele>
+<time>2015-12-15T00:03:18Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581687808" lon="-84.729673147">
+<ele>259.227966</ele>
+<time>2015-12-15T00:03:18Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581679106" lon="-84.729528785">
+<ele>257.018524</ele>
+<time>2015-12-15T00:03:19Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581511974" lon="-84.729602456">
+<ele>257.381714</ele>
+<time>2015-12-15T00:03:19Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581379771" lon="-84.729711890">
+<ele>257.570251</ele>
+<time>2015-12-15T00:03:20Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581264853" lon="-84.729679585">
+<ele>256.288086</ele>
+<time>2015-12-15T00:03:20Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581325054" lon="-84.729537964">
+<ele>255.157471</ele>
+<time>2015-12-15T00:03:21Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581412911" lon="-84.729427695">
+<ele>254.381180</ele>
+<time>2015-12-15T00:03:21Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581464887" lon="-84.729339123">
+<ele>253.691193</ele>
+<time>2015-12-15T00:03:22Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581199884" lon="-84.729233384">
+<ele>250.167053</ele>
+<time>2015-12-15T00:03:23Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.581059098" lon="-84.729390383">
+<ele>250.895493</ele>
+<time>2015-12-15T00:03:23Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580999851" lon="-84.729638696">
+<ele>253.383194</ele>
+<time>2015-12-15T00:03:24Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580873489" lon="-84.729801416">
+<ele>253.785706</ele>
+<time>2015-12-15T00:03:24Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580782294" lon="-84.729751587">
+<ele>252.130707</ele>
+<time>2015-12-15T00:03:25Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580724001" lon="-84.729480863">
+<ele>248.561615</ele>
+<time>2015-12-15T00:03:25Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580745697" lon="-84.729252577">
+<ele>245.875351</ele>
+<time>2015-12-15T00:03:25Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580523014" lon="-84.729216337">
+<ele>243.428513</ele>
+<time>2015-12-15T00:03:26Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580340743" lon="-84.729304552">
+<ele>242.127014</ele>
+<time>2015-12-15T00:03:26Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580284595" lon="-84.729269624">
+<ele>241.387405</ele>
+<time>2015-12-15T00:03:26Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580287337" lon="-84.729142666">
+<ele>240.016235</ele>
+<time>2015-12-15T00:03:27Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580322504" lon="-84.728913784">
+<ele>238.388199</ele>
+<time>2015-12-15T00:03:27Z</time>
+<fix>3d</fix>
+</trkpt>
+<trkpt lat="33.580274105" lon="-84.728665233">
+<ele>236.499893</ele>
+<time>2015-12-15T00:03:28Z</time>
+<fix>3d</fix>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
